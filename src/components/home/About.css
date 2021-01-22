@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about-us {
+    text-align: left;
+    margin: 5%;
+    color: black;
+}
+
+.hello {
+    font-size: 5em;
+    font-family: 'Questrial', sans-serif;
+}
+
+.about-paragraph {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.charater-traits-yellow {
+    color: rgb(233, 132, 49);
+    font-weight: bolder;
+    font-size: larger;
+}
+.charater-traits-blue {
+    color: #305c70;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#software-devs {
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+#c36 {
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.about-background {
+    background-image: url(./about_background.png);
+}
+
+#thanks {
+    background-image: url(./thanks_background.png);
+}
+
+@media only screen and (max-width: 800px) {
+    
+    .hello {
+        font-size: 3em;
+        font-family: 'Questrial', sans-serif;
+    }
+    .about-paragraph {
+        font-size: 16px;
+    }
+
+    #software-devs {
+        font-size: 22px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+    }
+    #c36 {
+        font-size: 25px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+    }
+
+    .charater-traits-yellow {
+        color: rgb(233, 132, 49);
+        font-weight: bolder;
+        font-size: large;
+    }
+    .charater-traits-blue {
+        color: #305c70;
+        font-weight: bolder;
+        font-size: large;
+    
+    }
+  }

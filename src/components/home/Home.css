@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}
+
+#homeImage {
+    width: 100%;
+    height: auto;
+    border: none;
+}
+
+footer {
+    text-align: center;
+    font-size: 17px;
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+  
+    footer {
+        text-align: center;
+        font-size: 14px;
+        background-color: white;
+        padding-bottom: 20px;
+    }
+  }
