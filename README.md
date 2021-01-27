@@ -1,8 +1,8 @@
 # Welcome to the Cohort 44 Class Website!
 
-We are a diverse array of people from many different industries. Our work experience includes that of military veterans, writers, musicians, IT professionals, graphic designers, medics, food service professionals, salespeople, librarians, stay-at-home moms, and more. We come from different backgrounds, but we all have something in common. We are a passionate, hardworking, problem solving, meme making group of people who came together for the experience of a lifetime.
+We are a diverse array of people from many different industries. Our work experience includes that of military veterans, writers, musicians, IT professionals, graphic designers, an accountant, medics, food service professionals, salespeople, librarians, stay-at-home moms, and more. We come from different backgrounds, but we all have something in common. We are a passionate, hardworking, problem solving, meme making group of people who came together for the experience of a lifetime.
 
-Six months ago, we set out to conquer ReactJS, JavaScript, Python, and Django. Throughout our journey, we laughed together, failed together, triumphed together, learned how to learn together, and we became family. We have grown not only as developers, but also as humans, realizing that the sky is the limit if you have determination and an endless thirst for learning. Now we are ready to channel our passion for software development into jobs where we can continue learning and making a difference.
+Six months ago, we set out to conquer HTML, CSS, JS, ReactJS, JavaScript, Python, and Django. Throughout our journey, we laughed together, failed together, triumphed together, learned how to learn together, and we became family. We have grown not only as developers, but also as humans, realizing that the sky is the limit if you have determination and an endless thirst for learning. Now we are ready to channel our passion for software development into jobs where we can continue learning and making a difference.
 
 
 We are software developers.
