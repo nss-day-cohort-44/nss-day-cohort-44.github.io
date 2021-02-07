@@ -184,7 +184,7 @@ export default [
             "email": "silaslowe@gmail.com",
             "github": "https://www.github.com/silaslowe",
             "linkedIn": "https://www.linkedin.com/in/silaslowe/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://www.silaslowe.net/",
             "proImg": "ryan_cunningham_serious.png",
             "funImg": "ryan_cunningham_serious.png",
             "isHired": false,
