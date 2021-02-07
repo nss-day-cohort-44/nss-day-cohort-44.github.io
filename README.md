@@ -22,8 +22,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Students
 
-id#
-
 1. Andrusky, Alan
 2. ~~Bing, David~~  (Voluntarily Redacted)
 3. Bishop, Will
