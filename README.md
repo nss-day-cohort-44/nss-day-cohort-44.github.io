@@ -12,9 +12,9 @@ We are software developers.
 
 ## To Install 
 1. In your terminal, run `git clone SSH KEY HERE`
-2. `cd` into the project directory.
-3. From the main directory, run `npm install` to install all dependencies. 
-4. From the main directory, run `npm start` to start the application and then go to http://localhost:3000 to view the website.
+1. `cd` into the project directory.
+1. From the main directory, run `npm install` to install all dependencies. 
+1. From the main directory, run `npm start` to start the application and then go to http://localhost:3000 to view the website.
 
 View the deployed website <a href="https://nss-cohort-44.github.io/">here</a>! 
 
