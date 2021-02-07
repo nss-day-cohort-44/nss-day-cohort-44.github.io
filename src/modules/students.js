@@ -280,7 +280,7 @@ export default [
             "email": "ericaphill@gmail.com",
             "github": "https://github.com/ericaphillips",
             "linkedIn": "https://www.linkedin.com/in/erica-phillips0/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://ericaphillips.github.io/portfolio/",
             "proImg": "michelle_serious.png",
             "funImg": "michelle_fun.png",
             "isHired": false,
