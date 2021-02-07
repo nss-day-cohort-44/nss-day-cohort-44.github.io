@@ -392,7 +392,7 @@ export default [
             "email": "thetechtravis@outlook.com",
             "github": "https://github.com/TheTechTravis",
             "linkedIn": "https://www.linkedin.com/in/thetechtravis/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://my-portfolio-7280cd.webflow.io/",
             "proImg": "lauren_serious.png",
             "funImg": "lauren_fun.png",
             "isHired": false,
