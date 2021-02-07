@@ -40,7 +40,7 @@ export default [
             "email": "tjakebutler@gmail.com",
             "github": "https://www.github.com/TJakeButler",
             "linkedIn": "https://www.linkedin.com/in/jake-butler-web-dev/",
-            "portfolio": "jakebutlerwebdev.com ",
+            "portfolio": "https://www.jakebutlerwebdev.com ",
             "proImg": "cassandra_serious.png",
             "funImg": "cassandra_fun.png",
             "isHired": false,

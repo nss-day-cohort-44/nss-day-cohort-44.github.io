@@ -25,10 +25,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 id#
 
 1. Andrusky, Alan
-2. ~~Bing, David~~ (Voluntarily Redacted)
+2. ~~Bing, David~~  (Voluntarily Redacted)
 3. Bishop, Will
 4. Butler, Jake
-5. Butterworth Charlie
+5. Butterworth, Charlie
 6. Campopiano, Mario
 7. Conerton, Shawn
 8. Draper, Dillon
@@ -43,14 +43,14 @@ id#
 17. Milner, Travis
 18. Nevels, Kyle
 19. Phillips, Erica
-20. Prakash Suganya
+20. Prakash, Suganya
 21. Prasad, Sanjeet
-22. Rondeau Leo
+22. Rondeau, Leo
 23. Schweizer, Benjamin
-24. Simmons Kyle
+24. Simmons, Kyle
 25. Steele, Kristen
 26. Stevenson, Travis
-27. Stewart Patrick
+27. Stewart, Patrick
 28. Wiens, Susan
 29. Williams, David
 30. Wohlwend Jaron
