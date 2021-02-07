@@ -152,7 +152,7 @@ export default [
             "email": "jayna.leitze@gmail.com",
             "github": "https://github.com/JaynaLeitze",
             "linkedIn": "https://www.linkedin.com/in/jaynaleitze",
-            "portfolio": "https://jaynaleitze.com/",
+            "portfolio": "https://www.canva.com/design/DAESYyjW25w/zHGVxERWxY8K0v-LAiBXFg/view?website#2:jayna-leitze",
             "proImg": "guy_serious.png",
             "funImg": "guy_fun.png",
             "isHired": false,
