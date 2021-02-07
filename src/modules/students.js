@@ -456,7 +456,7 @@ export default [
             "email": "jaronwohlwend@icloud.com",
             "github": "https://github.com/Jaron-Lane",
             "linkedIn": "https://www.linkedin.com/in/jaron-lane/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://jaron-lane.github.io/",
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
             "isHired": false,
