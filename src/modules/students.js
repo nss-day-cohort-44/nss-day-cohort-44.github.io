@@ -344,7 +344,7 @@ export default [
             "email": "contact@bschweiz.co",
             "github": "https://github.com/bschweiz",
             "linkedIn": "https://www.linkedin.com/in/bschweiz/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://www.bschweiz.co/",
             "proImg": "christian_serious.png",
             "funImg": "christian_fun.png",
             "isHired": false,
