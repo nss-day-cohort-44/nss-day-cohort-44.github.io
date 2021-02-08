@@ -216,7 +216,7 @@ export default [
             "email": "mrjm2005@yahoo.com",
             "github": "https://github.com/MatthewM1986",
             "linkedIn": "https://www.linkedin.com/in/matthew-machurek",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://mrjm2005.wixsite.com/mysite",
             "proImg": "chase_serious.png",
             "funImg": "chase_serious.png",
             "isHired": false,
