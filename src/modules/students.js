@@ -145,6 +145,22 @@ export default [
         },
         {
             "id": 11,
+            "firstName": "Jaron",
+            "lastName": "Lane",
+            "quote": "Here's a clever quote",
+            "quoteAuthor": "-Anon",
+            "email": "jaronwohlwend@icloud.com",
+            "github": "https://github.com/Jaron-Lane",
+            "linkedIn": "https://www.linkedin.com/in/jaron-lane/",
+            "portfolio": "https://jaron-lane.github.io/",
+            "proImg": "joseph_serious.png",
+            "funImg": "joseph_fun.png",
+            "isHired": false,
+            "resume": "JeremiahBell-resume.pdf",
+            "capstoneURL": "FUzktf9HPI4"
+        },
+        {
+            "id": 12,
             "firstName": "Jayna",
             "lastName": "Leitze",
             "quote": "Here's a clever quote",
@@ -160,7 +176,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 12,
+            "id": 13,
             "firstName": "Heath",
             "lastName": "Lester",
             "quote": "Here's a clever quote",
@@ -176,7 +192,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 13,
+            "id": 14,
             "firstName": "Silas",
             "lastName": "Lowe",
             "quote": "Here's a clever quote",
@@ -192,7 +208,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 14,
+            "id": 15,
             "firstName": "Matthew",
             "lastName": "Machurek",
             "quote": "Here's a clever quote",
@@ -208,7 +224,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
           },
         {
-            "id": 15,
+            "id": 16,
             "firstName": "Ted",
             "lastName": "Marov",
             "quote": "Here's a clever quote",
@@ -224,7 +240,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 16,
+            "id": 17,
             "firstName": "Danny",
             "lastName": "McCracken",
             "quote": "Here's a clever quote",
@@ -240,7 +256,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 17,
+            "id": 18,
             "firstName": "Travis",
             "lastName": "Milner",
             "quote": "Here's a clever quote",
@@ -256,7 +272,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 18,
+            "id": 19,
             "firstName": "Kyle",
             "lastName": "Nevels",
             "quote": "Here's a clever quote",
@@ -272,7 +288,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 19,
+            "id": 20,
             "firstName": "Erica",
             "lastName": "Phillips",
             "quote": "Here's a clever quote",
@@ -288,7 +304,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 20,
+            "id": 21,
             "firstName": "Suganya",
             "lastName": "Prakash or Chandraraj",
             "quote": "Here's a clever quote",
@@ -304,7 +320,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 21,
+            "id": 22,
             "firstName": "Sanjeet",
             "lastName": "Prasad",
             "quote": "Here's a clever quote",
@@ -320,7 +336,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 22,
+            "id": 23,
             "firstName": "Leo",
             "lastName": "Rondeau",
             "quote": "Here's a clever quote",
@@ -336,7 +352,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 23,
+            "id": 24,
             "firstName": "Benjamin",
             "lastName": "Schweizer",
             "quote": "Here's a clever quote",
@@ -352,7 +368,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 24,
+            "id": 25,
             "firstName": "Kyle",
             "lastName": "Simmons",
             "quote": "Here's a clever quote",
@@ -368,7 +384,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 25,
+            "id": 26,
             "firstName": "Kristen",
             "lastName": "Steele",
             "quote": "Here's a clever quote",
@@ -384,7 +400,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 26,
+            "id": 27,
             "firstName": "Travis",
             "lastName": "Stevenson",
             "quote": "Here's a clever quote",
@@ -400,7 +416,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 27,
+            "id": 28,
             "firstName": "Patrick",
             "lastName": "Stewart",
             "quote": "Here's a clever quote",
@@ -416,7 +432,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 28,
+            "id": 29,
             "firstName": "Susan",
             "lastName": "Wiens",
             "quote": "Here's a clever quote",
@@ -432,7 +448,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 29,
+            "id": 30,
             "firstName": "David",
             "lastName": "Williams",
             "quote": "Here's a clever quote",
@@ -441,22 +457,6 @@ export default [
             "github": "https://github.com/dwilliams91",
             "linkedIn": "https://www.linkedin.com/in/david-lavine-williams/",
             "portfolio": "PORTFOLIO",
-            "proImg": "joseph_serious.png",
-            "funImg": "joseph_fun.png",
-            "isHired": false,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
-        },
-        {
-            "id": 30,
-            "firstName": "Jaron",
-            "lastName": "Wohlwend",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
-            "email": "jaronwohlwend@icloud.com",
-            "github": "https://github.com/Jaron-Lane",
-            "linkedIn": "https://www.linkedin.com/in/jaron-lane/",
-            "portfolio": "https://jaron-lane.github.io/",
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
             "isHired": false,
