@@ -51,4 +51,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 27. Stewart, Patrick
 28. Wiens, Susan
 29. Williams, David
-30. Wohlwend Jaron
+30. Lane, Jaron
