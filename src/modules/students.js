@@ -72,7 +72,7 @@ export default [
             "email": "mcampopiano92@gmail.com",
             "github": "https://github.com/mcampopiano",
             "linkedIn": "https://www.linkedin.com/in/mcampopiano/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://mcampopiano.github.io/mario-campopiano-portfolio/",
             "proImg": "caroline_serious.png",
             "funImg": "caroline_serious.png",
             "isHired": false,
