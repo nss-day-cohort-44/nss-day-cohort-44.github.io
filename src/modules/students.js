@@ -280,7 +280,7 @@ export default [
             "email": "kyle.a.nevels@icloud.com",
             "github": "https://github.com/Knevels1",
             "linkedIn": "https://www.linkedin.com/in/kylenevels/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://knevels1.github.io/",
             "proImg": "charles_serious.png",
             "funImg": "charles_fun.png",
             "isHired": false,
