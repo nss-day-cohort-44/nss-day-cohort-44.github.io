@@ -146,7 +146,7 @@ export default [
         {
             "id": 11,
             "firstName": "Jaron",
-            "lastName": "Wohlwend",
+            "lastName": "Lane",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
             "email": "jaronwohlwend@icloud.com",
