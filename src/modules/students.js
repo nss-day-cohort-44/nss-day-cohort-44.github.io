@@ -424,7 +424,7 @@ export default [
             "email": "notthatpatrickstewart@gmail.com",
             "github": "https://github.com/NotThatPatrickStewart",
             "linkedIn": "https://www.linkedin.com/in/notthatpatrickstewart/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://notthatpatrickstewart.com/",
             "proImg": "melody_serious.png",
             "funImg": "melody_fun.png",
             "isHired": false,
