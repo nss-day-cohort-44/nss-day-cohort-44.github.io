@@ -456,7 +456,7 @@ export default [
             "email": "david.lav.williams@gmail.com",
             "github": "https://github.com/dwilliams91",
             "linkedIn": "https://www.linkedin.com/in/david-lavine-williams/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://dwilliams91.github.io/MyPersonalWebsite/",
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
             "isHired": false,
