@@ -251,7 +251,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "sophia_serious.png",
             "funImg": "sophia_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -267,7 +267,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "charles_serious.png",
             "funImg": "charles_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -283,7 +283,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "michelle_serious.png",
             "funImg": "michelle_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -299,7 +299,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "john_serious.png",
             "funImg": "john_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -315,7 +315,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "jesie_serious.png",
             "funImg": "jesie_serious.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -331,7 +331,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "sullivan_serious.png",
             "funImg": "sullivan_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -347,7 +347,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "christian_serious.png",
             "funImg": "christian_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -363,7 +363,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "sam_serious.png",
             "funImg": "sam_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -379,7 +379,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "erin_serious.png",
             "funImg": "erin_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -395,7 +395,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "lauren_serious.png",
             "funImg": "lauren_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -411,7 +411,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "melody_serious.png",
             "funImg": "melody_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -427,7 +427,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "trey_serious.png",
             "funImg": "trey_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -443,7 +443,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         },
@@ -459,7 +459,7 @@ export default [
             "quoteAuthor": "-Anon",
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JeremiahBell-resume.pdf",
             "capstoneURL": "FUzktf9HPI4"
         }
