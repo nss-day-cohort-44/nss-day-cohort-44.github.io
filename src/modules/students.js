@@ -3,7 +3,7 @@ export default [
             "id": 1,
             "firstName": "Alan",
             "lastName": "Andrusky",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://www.canva.com/design/DAESeJGphvk/bpdB6WrILTYSAqqsCp2fTA/view?website#2",
             "github": "https://github.com/aandrusky",
             "linkedIn": "https://www.linkedin.com/in/alanandrusky/",
             "email": "alanandrusky@gmail.com",
@@ -19,6 +19,8 @@ export default [
             "id": 3,
             "firstName": "Will",
             "lastName": "Bishop",
+            "quote": "          123456789 123456789 ",
+            "quoteAuthor": "-Baby Jesus",
             "email": "willbishop.hello@gmail.com",
             "portfolio": "https://www.willbishop.dev/",
             "github": "https://github.com/billwishop",
@@ -68,11 +70,10 @@ export default [
             "firstName": "Mario",
             "lastName": "Campopiano",
             "email": "mcampopiano92@gmail.com",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://mcampopiano.github.io/mario-campopiano-portfolio/",
             "github": "https://github.com/mcampopiano",
             "linkedIn": "https://www.linkedin.com/in/mcampopiano/",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
+            "portfolio": "https://mcampopiano.github.io/mario-campopiano-portfolio/",
             "proImg": "caroline_serious.png",
             "funImg": "caroline_serious.png",
             "isHired": false,
@@ -132,11 +133,10 @@ export default [
             "firstName": "Devin",
             "lastName": "Kent",
             "email": "dalamcd@gmail.com",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://dalamcd.github.io/personal-site/",
             "github": "https://www.github.com/dalamcd",
             "linkedIn": "https://www.linkedin.com/in/devinkent",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
+            "portfolio": "https://dalamcd.github.io/personal-site/",
             "proImg": "shawna_serious.png",
             "funImg": "shawna_fun.png",
             "isHired": false,
@@ -145,6 +145,22 @@ export default [
         },
         {
             "id": 11,
+            "firstName": "Jaron",
+            "lastName": "Lane",
+            "quote": "Here's a clever quote",
+            "quoteAuthor": "-Anon",
+            "email": "jaronwohlwend@icloud.com",
+            "github": "https://github.com/Jaron-Lane",
+            "linkedIn": "https://www.linkedin.com/in/jaron-lane/",
+            "portfolio": "https://jaron-lane.github.io/",
+            "proImg": "joseph_serious.png",
+            "funImg": "joseph_fun.png",
+            "isHired": false,
+            "resume": "JeremiahBell-resume.pdf",
+            "capstoneURL": "FUzktf9HPI4"
+        },
+        {
+            "id": 12,
             "firstName": "Jayna",
             "lastName": "Leitze",
             "email": "jayna.leitze@gmail.com",
@@ -160,7 +176,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 12,
+            "id": 13,
             "firstName": "Heath",
             "lastName": "Lester",
             "email": "h.allen.lester@gmail.com",
@@ -176,7 +192,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 13,
+            "id": 14,
             "firstName": "Silas",
             "lastName": "Lowe",
             "email": "silaslowe@gmail.com",
@@ -192,15 +208,14 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 14,
+            "id": 15,
             "firstName": "Matthew",
             "lastName": "Machurek",
             "email": "mrjm2005@yahoo.com",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://mrjm2005.wixsite.com/mysite",
             "github": "https://github.com/MatthewM1986",
             "linkedIn": "https://www.linkedin.com/in/matthew-machurek",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
+            "portfolio": "https://mrjm2005.wixsite.com/mysite",
             "proImg": "chase_serious.png",
             "funImg": "chase_serious.png",
             "isHired": false,
@@ -208,7 +223,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 15,
+            "id": 16,
             "firstName": "Ted",
             "lastName": "Marov",
             "email": "tedmarov@gmail.com",
@@ -224,7 +239,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 16,
+            "id": 17,
             "firstName": "Danny",
             "lastName": "McCracken",
             "email": "dannymccracken13@gmail.com",
@@ -240,7 +255,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 17,
+            "id": 18,
             "firstName": "Travis",
             "lastName": "Milner",
             "email": "travismilner1@gmail.com",
@@ -256,15 +271,14 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 18,
+            "id": 19,
             "firstName": "Kyle",
             "lastName": "Nevels",
             "email": "kyle.a.nevels@icloud.com",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://knevels1.github.io/",
             "github": "https://github.com/Knevels1",
             "linkedIn": "https://www.linkedin.com/in/kylenevels/",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
+            "portfolio": "https://knevels1.github.io/",
             "proImg": "charles_serious.png",
             "funImg": "charles_fun.png",
             "isHired": true,
@@ -272,7 +286,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 19,
+            "id": 20,
             "firstName": "Erica",
             "lastName": "Phillips",
             "email": "ericaphill@gmail.com",
@@ -288,9 +302,11 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 20,
+            "id": 21,
             "firstName": "Suganya",
-            "lastName": "Prakash or Chandraraj",
+            "lastName": "Prakash",
+            "quote": "Here's a clever quote",
+            "quoteAuthor": "-Anon",
             "email": "suganprakash0621@gmail.com",
             "portfolio": "https://suganya-dev.github.io/",
             "github": "https://github.com/Suganya-dev",
@@ -304,15 +320,15 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 21,
+            "id": 22,
             "firstName": "Sanjeet",
             "lastName": "Prasad",
-            "email": "EMAIL",
-            "portfolio": "PORTFOLIO",
-            "github": "https://github.com/sanjeetprasad",
-            "linkedIn": "https://www.linkedin.com/in/sanjeetprasad/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
+            "email": "snnjeet.l.prasad@gmail.com",
+            "github": "https://github.com/sanjeetprasad",
+            "linkedIn": "https://www.linkedin.com/in/sanjeetprasad/",
+            "portfolio": "https://sanjeetprasad.github.io/portfolio/",
             "proImg": "jesie_serious.png",
             "funImg": "jesie_serious.png",
             "isHired": true,
@@ -320,7 +336,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 22,
+            "id": 23,
             "firstName": "Leo",
             "lastName": "Rondeau",
             "email": "leorondeau2020@gmail.com",
@@ -336,7 +352,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 23,
+            "id": 24,
             "firstName": "Benjamin",
             "lastName": "Schweizer",
             "email": "contact@bschweiz.co",
@@ -352,15 +368,14 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 24,
+            "id": 25,
             "firstName": "Kyle",
             "lastName": "Simmons",
             "email": "darrensimmons92@gmail.com",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://darrenkylesimmons.com/",
             "github": "https://github.com/KyleSimmonsC44",
             "linkedIn": "https://www.linkedin.com/in/darren-kyle-simmons/",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
+            "portfolio": "https://darrenkylesimmons.com",
             "proImg": "sam_serious.png",
             "funImg": "sam_fun.png",
             "isHired": true,
@@ -368,7 +383,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 25,
+            "id": 26,
             "firstName": "Kristen",
             "lastName": "Steele",
             "email": "kristenraesteele@gmail.com",
@@ -384,7 +399,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 26,
+            "id": 27,
             "firstName": "Travis",
             "lastName": "Stevenson",
             "email": "thetechtravis@outlook.com",
@@ -400,15 +415,14 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 27,
+            "id": 28,
             "firstName": "Patrick",
             "lastName": "Stewart",
             "email": "notthatpatrickstewart@gmail.com",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://notthatpatrickstewart.com/",
             "github": "https://github.com/NotThatPatrickStewart",
             "linkedIn": "https://www.linkedin.com/in/notthatpatrickstewart/",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
+            "portfolio": "https://notthatpatrickstewart.com/",
             "proImg": "melody_serious.png",
             "funImg": "melody_fun.png",
             "isHired": true,
@@ -416,7 +430,7 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 28,
+            "id": 29,
             "firstName": "Susan",
             "lastName": "Wiens",
             "email": "susanmichellewiens@gmail.com",
@@ -432,31 +446,14 @@ export default [
             "capstoneURL": "FUzktf9HPI4"
         },
         {
-            "id": 29,
+            "id": 30,
             "firstName": "David",
             "lastName": "Williams",
             "email": "david.lav.williams@gmail.com",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://dwilliams91.github.io/MyPersonalWebsite/",
             "github": "https://github.com/dwilliams91",
             "linkedIn": "https://www.linkedin.com/in/david-lavine-williams/",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
-            "proImg": "joseph_serious.png",
-            "funImg": "joseph_fun.png",
-            "isHired": true,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
-        },
-        {
-            "id": 30,
-            "firstName": "Jaron",
-            "lastName": "Wohlwend",
-            "email": "jaronwohlwend@icloud.com",
-            "portfolio": "https://jaron-lane.github.io/",
-            "github": "https://github.com/Jaron-Lane",
-            "linkedIn": "https://www.linkedin.com/in/jaron-lane/",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon",
+            "portfolio": "https://dwilliams91.github.io/MyPersonalWebsite/",
             "proImg": "joseph_serious.png",
             "funImg": "joseph_fun.png",
             "isHired": true,
