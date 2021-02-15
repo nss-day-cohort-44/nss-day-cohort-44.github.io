@@ -392,7 +392,7 @@ export default [
             "email": "kristenraesteele@gmail.com",
             "github": "https://github.com/krsteele",
             "linkedIn": "https://www.linkedin.com/in/kristenraesteele/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://www.krsteele.com/",
             "proImg": "erin_serious.png",
             "funImg": "erin_fun.png",
             "isHired": false,
