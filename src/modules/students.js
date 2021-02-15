@@ -104,7 +104,7 @@ export default [
             "email": "dillonbdraper@gmail.com",
             "github": "https://www.github.com/DillonbDraper",
             "linkedIn": "https://www.linkedin.com/in/dillonbdraper",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://dillonbdraper.github.io/",
             "proImg": "adam_serious.png",
             "funImg": "adam_fun.png",
             "isHired": false,
