@@ -88,7 +88,7 @@ export default [
             "email": "conerton52@gmail.com",
             "github": "https://github.com/conerton",
             "linkedIn": "https://www.linkedin.com/in/shawnconerton/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://www.canva.com/design/DAESezY2obY/1lVoG7su6aJoc66iT1Lf_w/view?website#2",
             "proImg": "manila_serious.png",
             "funImg": "manila_fun.png",
             "isHired": false,
