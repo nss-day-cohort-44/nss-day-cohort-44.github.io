@@ -440,7 +440,7 @@ export default [
             "email": "susanmichellewiens@gmail.com",
             "github": "https://github.com/swiens",
             "linkedIn": "https://www.linkedin.com/in/susanmichellewiens/",
-            "portfolio": "PORTFOLIO",
+            "portfolio": "https://swiens.github.io/",
             "proImg": "trey_serious.png",
             "funImg": "trey_fun.png",
             "isHired": false,
