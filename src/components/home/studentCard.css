@@ -9,7 +9,7 @@ body {
     display: flex;
     color: #ffffff;
     flex-direction: column;
-    background-color: #305c70;
+    background-color: #054F60;
     height: auto;
     width: 360px;
     margin: 1em;
@@ -39,6 +39,7 @@ body {
   color: white;
   margin: 8px;
 }
+
 
 .student-serious-photo, .student-fun-photo {
   width: 285px;
@@ -77,13 +78,13 @@ body {
 .icons {
   margin: 10px;
   font-size: 40px;
-  background-color: #305c70;
+  background-color: #054F60;
   color:rgb(241, 239, 239);
 }
 
 .icons:hover {
   margin: 10px;
-  background-color: #305c70;
+  background-color: #054F60;
   color: rgb(148, 146, 146);
 }
 
@@ -95,6 +96,7 @@ body {
   /* text-transform: uppercase; */
 
 }
+
 
 #hiredLabel {
   margin-bottom: 0;
@@ -116,7 +118,7 @@ body {
   margin-bottom: 0;
   height: 40px;
   border-radius: .43em .43em 0 0;
-  background-color: #ffffff;
+  background-color: #F5F5F5;
   /* background-image: linear-gradient(to right, rgb(42, 122, 208), rgb(25, 79, 255)); */
   color: #305c70;
   font-size: 24px;

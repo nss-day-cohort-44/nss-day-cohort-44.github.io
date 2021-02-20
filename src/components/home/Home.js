@@ -94,21 +94,21 @@ class Home extends Component {
         <section id="about">
           <AboutUs />
         </section>
-        <Podcasts></Podcasts>
         <div id="devs" className="container-cards">
           {this.state.students.map(student =>
             <StudentCard
-              key={student.id}
-              student={student}
-              {...this.props}
+            key={student.id}
+            student={student}
+            {...this.props}
             />
-          )}
+            )}
         </div>
         <br />
         <br />
         <section id="tech">
           <Technologies />
         </section>
+        <Podcasts></Podcasts>
         <br />
         <br />
         <section id="thanks">
