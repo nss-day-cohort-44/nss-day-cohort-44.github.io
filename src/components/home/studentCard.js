@@ -31,7 +31,6 @@ class StudentCard extends Component {
                       {/* </picture> */}
                     </div>
                     <h2 className="student-name">{this.props.student.firstName} {this.props.student.lastName}</h2>
-                    <p className="student-quote">"{this.props.student.quote}" {this.props.student.quoteAuthor}</p>
                     <div className="student-links">
                       <div className="icon-container">
                         { this.props.student.portfolio !== "" ?
@@ -50,6 +49,7 @@ class StudentCard extends Component {
                       </div>
                       {this.props.student.capstoneURL && <CapstoneDialog student={this.props.student}/>}
                       {this.props.student.resume && <ResumeDialog student={this.props.student}/>}
+                        <p className="student-quote">"{this.props.student.quote}" {this.props.student.quoteAuthor}</p>
                     </div>
                 </div>
               </div>
