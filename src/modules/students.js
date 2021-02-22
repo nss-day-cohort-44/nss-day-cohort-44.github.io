@@ -9,11 +9,11 @@ export default [
             "email": "alanandrusky@gmail.com",
             "quote": "Example",
             "quoteAuthor": "",
-            "proImg": "jeremiah_serious.png",
-            "funImg": "jeremiah_fun.png",
+            "proImg": "alan_serious.jpg",
+            "funImg": "alan_fun.png",
             "isHired": false,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "stAIvRPedSw"
+            "resume": "AlanAndrusky.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 3,
@@ -27,11 +27,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/will-bishop-software-developer/",
             "quote": "A much larger and robust, although marginally unnecessary (exept to show examplary exceptions); and possilby short enough to circumvent noticibility; however doubtful, example",
             "quoteAuthor": "-Baby Jesus",
-            "proImg": "cassandra_serious.png",
-            "funImg": "cassandra_fun.png",
+            "proImg": "will_serious.JPG",
+            "funImg": "will_fun.jpeg",
             "isHired": false,
-            "resume": "CassieBoyd-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "WillBishop.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 4,
@@ -43,11 +43,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/jake-butler-web-dev/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "cassandra_serious.png",
-            "funImg": "cassandra_fun.png",
+            "proImg": "jake_serious.png",
+            "funImg": "jake_fun.png",
             "isHired": false,
-            "resume": "CassieBoyd-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "JakeButler.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 5,
@@ -59,11 +59,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/cbutterworth3/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "kenneth_serious.png",
-            "funImg": "kenneth_fun.png",
+            "proImg": "charlie_serious.jpeg",
+            "funImg": "charlie_fun.jpeg",
             "isHired": false,
-            "resume": "KenBoyd-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "CharlieButterworth.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 6,
@@ -74,11 +74,11 @@ export default [
             "github": "https://github.com/mcampopiano",
             "linkedIn": "https://www.linkedin.com/in/mcampopiano/",
             "portfolio": "https://mcampopiano.github.io/mario-campopiano-portfolio/",
-            "proImg": "caroline_serious.png",
-            "funImg": "caroline_serious.png",
+            "proImg": "mario_serious.jpg",
+            "funImg": "mario_fun.jpg",
             "isHired": false,
-            "resume": "CarolineBrownlee-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "MarioCampopiano.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 7,
@@ -90,11 +90,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/shawnconerton/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "manila_serious.png",
-            "funImg": "manila_fun.png",
+            "proImg": "shawn_serious.png",
+            "funImg": "shawn_fun.png",
             "isHired": false,
-            "resume": "ManilaBui-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "ShawnConerton.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 8,
@@ -106,11 +106,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/dillonbdraper",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "adam_serious.png",
-            "funImg": "adam_fun.png",
-            "isHired": false,
-            "resume": "AdamByrd-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "proImg": "dillon_serious.jpg",
+            "funImg": "dillon_fun.jpg",
+            "isHired": false,   
+            "resume": "DillonDraper.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 9,
@@ -122,11 +122,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/jkaset",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "james_serious.png",
-            "funImg": "james_fun.png",
+            "proImg": "jasmin_serious.jpg",
+            "funImg": "jasmin_fun.jpg",
             "isHired": false,
-            "resume": "JamesChapman-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "JasminKaset.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 10,
@@ -137,11 +137,11 @@ export default [
             "github": "https://www.github.com/dalamcd",
             "linkedIn": "https://www.linkedin.com/in/devinkent",
             "portfolio": "https://dalamcd.github.io/personal-site/",
-            "proImg": "shawna_serious.png",
-            "funImg": "shawna_fun.png",
+            "proImg": "devin_serious.jpg",
+            "funImg": "devin_fun.jfif",
             "isHired": false,
-            "resume": "ShawnaChatfield-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "DevinKent.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 11,
@@ -153,11 +153,11 @@ export default [
             "github": "https://github.com/Jaron-Lane",
             "linkedIn": "https://www.linkedin.com/in/jaron-lane/",
             "portfolio": "https://jaron-lane.github.io/",
-            "proImg": "joseph_serious.png",
-            "funImg": "joseph_fun.png",
+            "proImg": "jaron_serious.png",
+            "funImg": "jaron_fun.png",
             "isHired": false,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "JaronLane.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 12,
@@ -169,11 +169,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/jaynaleitze",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "guy_serious.png",
-            "funImg": "guy_fun.png",
+            "proImg": "jayna_serious.JPG",
+            "funImg": "jayna_fun.jpg",
             "isHired": false,
-            "resume": "GuyCherkesky-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "JaynaLeitze.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 13,
@@ -185,11 +185,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/halester/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "ryan_crowley_serious.png",
-            "funImg": "ryan_crowley_fun.png",
+            "proImg": "heath_serious.JPG",
+            "funImg": "heath_fun.jpg",
             "isHired": false,
-            "resume": "GuyCherkesky-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "HeathLester.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 14,
@@ -201,11 +201,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/silaslowe/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "ryan_cunningham_serious.png",
-            "funImg": "ryan_cunningham_serious.png",
+            "proImg": "silas_serious.jpg",
+            "funImg": "silas_fun.jpg",
             "isHired": false,
-            "resume": "RyanCunningham-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "SilasLowe.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 15,
@@ -216,11 +216,11 @@ export default [
             "github": "https://github.com/MatthewM1986",
             "linkedIn": "https://www.linkedin.com/in/matthew-machurek",
             "portfolio": "https://mrjm2005.wixsite.com/mysite",
-            "proImg": "chase_serious.png",
-            "funImg": "chase_serious.png",
+            "proImg": "matthew_serious.png",
+            "funImg": "matthew_fun.JPG",
             "isHired": false,
-            "resume": "ChaseFite-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "MatthewMachurek.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 16,
@@ -232,11 +232,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/tedmarov",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "julian_serious.png",
-            "funImg": "julian_fun.png",
+            "proImg": "ted_serious.jpg",
+            "funImg": "ted_fun.jpg",
             "isHired": false,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "TedMarov.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 17,
@@ -248,11 +248,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/danny-mccracken",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "corri_serious.png",
-            "funImg": "corri_fun.png",
+            "proImg": "danny_serious.JPG",
+            "funImg": "danny_fun.jpg",
             "isHired": false,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "DannyMcCracken.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 18,
@@ -264,11 +264,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/travismilner1/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "sophia_serious.png",
-            "funImg": "sophia_fun.png",
+            "proImg": "travisM_serious.png",
+            "funImg": "travisM_fun.jpg",
             "isHired": true,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "TravisMilner.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 19,
@@ -279,11 +279,11 @@ export default [
             "github": "https://github.com/Knevels1",
             "linkedIn": "https://www.linkedin.com/in/kylenevels/",
             "portfolio": "https://knevels1.github.io/",
-            "proImg": "charles_serious.png",
-            "funImg": "charles_fun.png",
+            "proImg": "kyleN_serious.jpg",
+            "funImg": "kyleN_fun.png",
             "isHired": true,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "KyleNevels.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 20,
@@ -295,11 +295,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/erica-phillips0/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "michelle_serious.png",
-            "funImg": "michelle_fun.png",
+            "proImg": "erica_serious.jpg",
+            "funImg": "erica_fun.JPG",
             "isHired": true,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "EricaPhillips.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 21,
@@ -313,11 +313,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/suganyachandarraj/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "john_serious.png",
-            "funImg": "john_fun.png",
+            "proImg": "suganya_serious.JPG",
+            "funImg": "suganya_fun.png",
             "isHired": true,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "SuganyaPrakash.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 22,
@@ -329,11 +329,11 @@ export default [
             "github": "https://github.com/sanjeetprasad",
             "linkedIn": "https://www.linkedin.com/in/sanjeetprasad/",
             "portfolio": "https://sanjeetprasad.github.io/portfolio/",
-            "proImg": "jesie_serious.png",
-            "funImg": "jesie_serious.png",
+            "proImg": "sanjeet_serious.jpg",
+            "funImg": "sanjeet_fun.jpg",
             "isHired": true,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "SanjeetPrasad.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 23,
@@ -345,11 +345,11 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/leo-rondeau/",
             "quote": "Here's a clever quote",
             "quoteAuthor": "-Anon",
-            "proImg": "sullivan_serious.png",
-            "funImg": "sullivan_fun.png",
+            "proImg": "leo_serious.png",
+            "funImg": "leo_fun.jpg",
             "isHired": true,
-            "resume": "JeremiahBell-resume.pdf",
-            "capstoneURL": "FUzktf9HPI4"
+            "resume": "LeoRondeau.pdf",
+            "capstoneURL": ""
         },
         {
             "id": 24,
