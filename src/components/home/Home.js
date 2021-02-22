@@ -14,19 +14,45 @@ import Technologies from './Technologies'
 import Thanks from './Thanks';
 import allStudents from '../../modules/students'
 
+//DEFINE SHUFFLE FUNCTION THANK YOU COHORT 42
+const shuffle = (arr) => {
+    //start at the end of the list...
+    let currentIndex = arr.length, holdThisForASec, numberOutOfAHat;
+    //as long as there are still more to choose from...
+    while (0 !== currentIndex) {
+        //get a random index, rounding down
+        //bc math.random produces an int between 0 & 1.
+        numberOutOfAHat = Math.floor(Math.random() * currentIndex);
+        //decrement
+        currentIndex -= 1;
+        //let's say our current index is 25 right now
+        // store the value of the object at index 25 in the var tempvalue
+        holdThisForASec = arr[currentIndex];
+        //then you can set the val of the object at the current index position
+        //equal to the val of the object at the random index position
+        arr[currentIndex] = arr[numberOutOfAHat];
+        //then we can se the val of the object that used to be at our random index
+        //equal to the value of the object at index 25 which we stored in the temp var
+        arr[numberOutOfAHat] = holdThisForASec;
+        // and we'll keep switchin em around until we get to index 0,
+    }
+    //then return the array!
+    return arr;
+}
 
 class Home extends Component {
   state = {
     students: [],
-    joinedStudentsArray: []
+    joinedStudentsArray: [],
   }
 
   componentDidMount() {
     // ApiManager.getAll("students")
+        const studentShuffle = shuffle(allStudents)
     //     //create array for students who are not hired
-        const notHiredYet = allStudents.filter(student => !student.isHired)
+        const notHiredYet = studentShuffle.filter(student => !student.isHired)
     //     //create array for students who are hired
-        const hired = allStudents.filter(student => student.isHired)
+        const hired = studentShuffle.filter(student => student.isHired)
     //     // Join the two arrays together
         const joinedStudentsArray = notHiredYet.concat(hired)
         // set the joined array to state
@@ -68,28 +94,28 @@ class Home extends Component {
         <section id="about">
           <AboutUs />
         </section>
-        <Podcasts></Podcasts>
         <div id="devs" className="container-cards">
           {this.state.students.map(student =>
             <StudentCard
-              key={student.id}
-              student={student}
-              {...this.props}
+            key={student.id}
+            student={student}
+            {...this.props}
             />
-          )}
+            )}
         </div>
         <br />
         <br />
         <section id="tech">
           <Technologies />
         </section>
+        <Podcasts></Podcasts>
         <br />
         <br />
         <section id="thanks">
           <Thanks />
         </section>
 
-        <footer>© 2020. Nashville Software School Day Cohort 36.</footer>
+        <footer>© 2021. Nashville Software School Day Cohort 44.</footer>
       </>
     )
   }

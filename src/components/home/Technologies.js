@@ -1,7 +1,7 @@
 import React from 'react';
 import './Technologies.css'
 // Author: Sam Pita
-// Purpose: To display the technologies Cohort 36 has gained knowledge and practice in
+// Purpose: To display the technologies Cohort 44 has gained knowledge and practice in
 
 
 const Technologies = () => (
