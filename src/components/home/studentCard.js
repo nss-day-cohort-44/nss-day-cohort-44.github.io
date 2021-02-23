@@ -49,7 +49,7 @@ class StudentCard extends Component {
                       </div>
                       {this.props.student.capstoneURL && <CapstoneDialog student={this.props.student}/>}
                       {this.props.student.resume && <ResumeDialog student={this.props.student}/>}
-                        <p className="student-quote">"{this.props.student.quote}" {this.props.student.quoteAuthor}</p>
+                        <p className="student-quote">{this.props.student.quote} <br /> {this.props.student.quoteAuthor}</p>
                     </div>
                 </div>
               </div>
