@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './NSS.css';
 
-function App() {
+function ClassWebsite() {
   return (
     <div className="App">
       <header className="App-header">
