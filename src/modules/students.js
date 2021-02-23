@@ -236,8 +236,8 @@ export default [
             "isHired": false,
             "resume": "TedMarov.pdf",
             "capstoneURL": "",
-            "quote": "Here's a clever quote",
-            "quoteAuthor": "-Anon"
+            "quote": "If you want to find out who someone is to the bottom, give them power. Anyone can stand adversity; only the great can stand prosperity.",
+            "quoteAuthor": "- Robert G. Ingersoll"
         },
         {
             "id": 17,
