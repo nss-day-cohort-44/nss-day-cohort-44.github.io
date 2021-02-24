@@ -16,7 +16,7 @@ We are software developers.
 1. From the main directory, run `npm install` to install all dependencies. 
 1. From the main directory, run `npm start` to start the application and then go to http://localhost:3000 to view the website.
 
-View the deployed website <a href="https://nss-cohort-44.github.io/">here</a>! 
+View the deployed website <a href="https://nss-day-cohort-44.github.io/">here</a>! 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
