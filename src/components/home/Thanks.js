@@ -33,7 +33,7 @@ const Thanks = () => (
                     <span className="thanks-titles">And lastly - to each other,<br />
                     </span>
                     <div className="thanks-message">
-                    Hey, Cohort 44, we did it!<br />We just went through a pretty amazing six months, and it wouldn’t be a stretch to say we all recognize just how lucky we are that we got to do it with the people we did. To have an entire group be not only intelligent, creative, hard-working badasses, but also some of the kindest, most caring and empathetic people around is nothing short of astounding. And we’ll continue to support each other as we move forward, offering a helping hand through each other’s failures and celebrating each other’s successes. Because we’re Cohort 44, and we’re stuck with us now!</div>
+                    <b>Hey, Cohort 44, we did it!</b><br /><br />We just went through a pretty amazing six months, and it wouldn’t be a stretch to say we all recognize just how lucky we are that we got to do it with the people we did. To have an entire group be not only intelligent, creative, hard-working badasses, but also some of the kindest, most caring and empathetic people around is nothing short of astounding. And we’ll continue to support each other as we move forward, offering a helping hand through each other’s failures and celebrating each other’s successes. Because we’re Cohort 44, and we’re stuck with us now!</div>
                 </div>
                 </p>
 

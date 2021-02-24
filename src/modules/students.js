@@ -11,9 +11,7 @@ export default [
             "funImg": "alan_fun.png",
             "isHired": false,
             "resume": "AlanAndrusky.pdf",
-            "capstoneURL": "",
-            "quote": "Example",
-            "quoteAuthor": ""
+            "capstoneURL": ""
         },
         {
             "id": 3,
@@ -105,7 +103,7 @@ export default [
             "github": "https://www.github.com/DillonbDraper",
             "linkedIn": "https://www.linkedin.com/in/dillonbdraper",
             "portfolio": "https://dillonbdraper.github.io/",
-            "quote": "“There is no struggle too vast, no odds too overwhelming, for even should we fail -should we fall- we will know that we have lived.”",
+            "quote": "“There is no struggle too vast, no odds too overwhelming, for even should we fail- should we fall- we will know that we have lived.”",
             "quoteAuthor": "-Steven Erikson",
             "resume": "AdamByrd-resume.pdf",
             "email": "dillonbdraper@gmail.com",
@@ -170,7 +168,7 @@ export default [
             "github": "https://github.com/JaynaLeitze",
             "linkedIn": "https://www.linkedin.com/in/jaynaleitze",
             "quote": "“Anyways, you need people of intelligence on this sort of mission... quest... thing.”",
-            "quoteAuthor": "- Peregrin Took",
+            "quoteAuthor": "-Peregrin Took",
             "email": "jayna.leitze@gmail.com",
             "proImg": "jayna_pro.JPG",
             "funImg": "jayna_fun.jpg",
