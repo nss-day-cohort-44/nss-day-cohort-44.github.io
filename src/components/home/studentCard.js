@@ -25,10 +25,10 @@ class StudentCard extends Component {
                 <span id="availableText">Available For Hire</span></p>}
                 <div className="card-content">
                     <div className="card-fx">
-                      {/* <picture> */}
+                      <picture>
                       <img src={require(`../../images/students/${this.props.student.proImg}`)} alt="student-serious-photo" className="student-serious-photo"/>
                       <img src={require(`../../images/students/${this.props.student.funImg}`)} className="student-fun-photo" />
-                      {/* </picture> */}
+                      </picture>
                     </div>
                     <h2 className="student-name">{this.props.student.firstName} {this.props.student.lastName}</h2>
                     <div className="student-links">
@@ -49,7 +49,7 @@ class StudentCard extends Component {
                       </div>
                       {this.props.student.capstoneURL && <CapstoneDialog student={this.props.student}/>}
                       {this.props.student.resume && <ResumeDialog student={this.props.student}/>}
-                        <p className="student-quote">"{this.props.student.quote}" {this.props.student.quoteAuthor}</p>
+                        <p className="student-quote">{this.props.student.quote} <br /> {this.props.student.quoteAuthor}</p>
                     </div>
                 </div>
               </div>

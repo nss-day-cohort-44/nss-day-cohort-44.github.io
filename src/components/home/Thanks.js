@@ -10,7 +10,7 @@ const Thanks = () => (
         <section className="about-us" id='thanks'>
             <h1 className="thanks">Thank You...</h1>
 
-            <p className="thanks-paragraph">
+            {/* <p className="thanks-paragraph">
                 <div className="thanks-section">
                     <span className="thanks-titles">To John Wark, <br />
                     Founder of Nashville Software School <br />
@@ -49,7 +49,7 @@ const Thanks = () => (
                     <div className="thanks-message">
                     This bootcamp was even more amazing because of the people we experienced it with. Cohort 44 is made up of wonderful people of the highest caliber. We supported each other through every trial and tribulation. We laughed together when we got stuck. We went out after class and karaoke'd to celebrate little wins. We are always here for each other, even in our post-NSS careers, and that makes it so much better.</div>
                 </div>
-                </p>
+                </p> */}
 
         </section>
     </>
