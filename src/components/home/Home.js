@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import classPhoto from './class_photo_gradient.png'
-import classPhotoFun from './class_photo_fun.png'
+import classPhoto from './c44_logo_grid.jpg'
+import classPhotoFun from './cohort44_bunch.jpg'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel'
 import './Home.css'
@@ -76,20 +76,20 @@ class Home extends Component {
               <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
             </Carousel.Caption>
           </Carousel.Item>
+            </Carousel>
 
-          <Carousel.Item>
-            <img
+          {/* <Carousel.Item> */}
+            {/* <img
               className="d-block w-100"
               src={classPhotoFun}
               alt="Second slide"
-            />
+            /> */}
 
-            <Carousel.Caption>
+            {/* <Carousel.Caption> */}
               {/* <h3>Second slide label</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
-            </Carousel.Caption>
-          </Carousel.Item>
-        </Carousel>
+            {/* </Carousel.Caption> */}
+          {/* </Carousel.Item> */}
 
         <section id="about">
           <AboutUs />
