@@ -10,46 +10,32 @@ const Thanks = () => (
         <section className="about-us" id='thanks'>
             <h1 className="thanks">Thank You...</h1>
 
-            {/* <p className="thanks-paragraph">
+            <p className="thanks-paragraph">
                 <div className="thanks-section">
-                    <span className="thanks-titles">To John Wark, <br />
-                    Founder of Nashville Software School <br />
+                    <span className="thanks-titles">To John Wark - Founder of Nashville Software School,<br />
                     </span>
                     <div className="thanks-message">
-                    Thank you so much for creating this opportunity for us to change our lives. Nashville Software School is much more than just a school. It's an amazing, supportive community that embraces each student with the strength and care of a mother determined to see her children succeed.
-                    We know you run a tight ship as a non-profit, yet you and your team still manage to carefully craft each detail of our experience and prepare us more than we could have ever imagined.</div>
+                    Thank you for creating Nashville Software School. It’s felt like more than just a school to us- you’ve created an amazing, supportive community that can take anyone with a desire to grow and learn, and create a new path through life for them. There isn’t a single one of us in Cohort 44 that won’t have their future dramatically altered for the better by this experience.</div>
                 </div>
                 <div className="thanks-section">
-                    <span className="thanks-titles"> To the NSS Team, <br />
-                    Amy, Laura, Mandy, and Jeremiah <br /></span>
+                    <span className="thanks-titles">To our Lead Instructors - Jisie and Steve,<br />
+                    And to our Instructional Team - Madi, Bryan, Mo, and Scott,<br /></span>
                     <div className="thanks-message">
-                    Thank you for making every day and event run smoothly. Your hard work behind the scenes makes all the difference, and we appreciate you!</div>
+                    It will honestly be strange to launch into our new careers and not have any of you there, you’ve become a huge part of all of our lives over the past six months. Thank you so much for your depth and breadth of knowledge, and your passion for imparting it on us. Through all our successes and failures, you always put learning first. To say we couldn’t have done this without all of you would be a massive understatement, so we’ll just say we’re so happy we didn’t have to.</div>
                 </div>
                 <div className="thanks-section">
-                    <span className="thanks-titles">To Our Instructors, <br />
-                    Jisie and Joe <br /></span>
+                    <span className="thanks-titles">To Our Career Development Team - Ashley and Marla,<br />
+                    </span>
                     <div className="thanks-message">
-                    Thank you for so eloquently and happily sharing your knowledge with us during these last 6 months. The curriculum could get intense and fast-paced at times, but your humor and dedication to making sure each student had a certain level of understanding made the learning process so enjoyable (and funny, at times!). Words can't express how much we will miss being in your class every day.</div>
+                    The amount of work you’ve both put in to make sure we successfully transition into the “real world” has been nothing short of amazing. From calming our nerves in your talks, to organizing mock interviews, to giving us such incredibly detailed feedback on our resumes, LinkedIns, portfolios, and anything else we needed- you two have been an incredible asset that we are lucky to have. I know many of us will continue to reach out in the future to both of you for your wisdom and insight.</div>
                 </div>
                 <div className="thanks-section">
-                    <span className="thanks-titles"> To Our Junior Instructors and Teaching Assistants, <br />
-                    Kristen, Rose, and Jenna <br /></span>
+                    <span className="thanks-titles">And lastly - to each other,<br />
+                    </span>
                     <div className="thanks-message">
-                    We would not have made it through this program without asking you guys a million questions! Thank you for helping guide us and reassure us along this road.</div>
+                    <b>Hey, Cohort 44, we did it!</b><br /><br />We just went through a pretty amazing six months, and it wouldn’t be a stretch to say we all recognize just how lucky we are that we got to do it with the people we did. To have an entire group be not only intelligent, creative, hard-working badasses, but also some of the kindest, most caring and empathetic people around is nothing short of astounding. And we’ll continue to support each other as we move forward, offering a helping hand through each other’s failures and celebrating each other’s successes. Because we’re Cohort 44, and we’re stuck with us now!</div>
                 </div>
-                <div className="thanks-section">
-                    <span className="thanks-titles">To Our Career Development Team, <br />
-                    Ashley and Kristin <br /></span>
-                    <div className="thanks-message">
-                    You are truly superheroes. You are a powerhouse duo that exemplifies how the size of the team does not matter nearly as much as the quality of the people on your team. Thank you for using your superhero magic to turn us into the best, graduate-ready packages we can be. We appreciate the long hours you spent with us, from resume feedback to interview prep to pep talks. <a href="https://www.youtube.com/watch?v=0iAzMRKFX3c" target="_blank">*cue "Wing Beneath My Wings" by Bette Midler*</a></div>
-                </div>
-                <div className="thanks-section">
-                    <span className="thanks-titles">Lastly, <br />
-                    To Our Fellow Cohort 44 Classmates <br /></span>
-                    <div className="thanks-message">
-                    This bootcamp was even more amazing because of the people we experienced it with. Cohort 44 is made up of wonderful people of the highest caliber. We supported each other through every trial and tribulation. We laughed together when we got stuck. We went out after class and karaoke'd to celebrate little wins. We are always here for each other, even in our post-NSS careers, and that makes it so much better.</div>
-                </div>
-                </p> */}
+                </p>
 
         </section>
     </>
