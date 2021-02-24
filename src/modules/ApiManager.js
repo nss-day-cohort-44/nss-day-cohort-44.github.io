@@ -1,4 +1,4 @@
-const remoteURL = "https://nss-cohort-36-json-server-api.herokuapp.com"
+const remoteURL = "https://nss-day-cohort-44.github.io/"
 
 export default {
   get(tableName, id) {
