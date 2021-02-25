@@ -11,7 +11,7 @@ const Technologies = () => (
             <h2 id="techTitle">Technologies</h2><br />
             <div className="technologiesContainer">
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/javascript.png" alt="JavaScript Icon"></img>
+                    <img className="techImage" src="/techs/JS.svg" alt="JavaScript Icon"></img>
                     <div className="technologyText">Javascript</div>
                 </div>
                 <div className="cardContainer">
@@ -19,11 +19,11 @@ const Technologies = () => (
                     <div className="technologyText">React JS</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png" alt="Python Icon"></img>
+                    <img className="techImage" src="/techs/Python_logo.svg" alt="Python Icon"></img>
                     <div className="technologyText">Python</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/3692106/django.png?width=40" alt="Django Icon"></img>
+                    <img className="techImage" src="/techs/django.png" alt="Django Icon"></img>
                     <div className="technologyText">Django</div>
                 </div>
                 <div className="cardContainer">
@@ -35,15 +35,15 @@ const Technologies = () => (
                     <div className="technologyText">GitHub</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/html5.png" alt="HTML5 Icon"></img>
+                    <img className="techImage" src="/techs/HTML5.png" alt="HTML5 Icon"></img>
                     <div className="technologyText">HTML5</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/css3.png" alt="CSS3 Icon"></img>
+                    <img className="techImage" src="/techs/CSS3.png" alt="CSS3 Icon"></img>
                     <div className="technologyText">CSS3</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="Bootstrap Icon"></img>
+                    <img className="techImage" src="/techs/Boostrap_logo.svg" alt="Bootstrap Icon"></img>
                     <div className="technologyText">Bootstrap</div>
                 </div>
                 <div className="cardContainer">
@@ -55,7 +55,7 @@ const Technologies = () => (
                     <div className="technologyText">NPM</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://getdrawings.com/free-icon/sql-server-icon-51.png" alt="SQL Icon"></img>
+                    <img className="techImage" src="/techs/SQL.png" alt="SQL Icon"></img>
                     <div className="technologyText">SQL</div>
                 </div>
                 <div className="cardContainer">
