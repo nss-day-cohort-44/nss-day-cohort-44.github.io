@@ -19,7 +19,7 @@ const Technologies = () => (
                     <div className="technologyText">React JS</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="..//images/techs/Python_logo.svg" alt="Python Icon"></img>
+                    <img className="techImage" src="/techs/Python_logo.svg" alt="Python Icon"></img>
                     <div className="technologyText">Python</div>
                 </div>
                 <div className="cardContainer">
