@@ -23,7 +23,7 @@ const Technologies = () => (
                     <div className="technologyText">Python</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="/techs/django-logo-png-transparent.png" alt="Django Icon"></img>
+                    <img className="techImage" src="/techs/django.png" alt="Django Icon"></img>
                     <div className="technologyText">Django</div>
                 </div>
                 <div className="cardContainer">
