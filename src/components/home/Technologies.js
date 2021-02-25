@@ -15,7 +15,7 @@ const Technologies = () => (
                     <div className="technologyText">Javascript</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/reactJS.png" alt="React Icon"></img>
+                    <img className="techImage" src="/techs/react.svg" alt="React Icon"></img>
                     <div className="technologyText">React JS</div>
                 </div>
                 <div className="cardContainer">
