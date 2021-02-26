@@ -47,7 +47,7 @@ const Technologies = () => (
                     <div className="technologyText">Firebase</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="/techs/NPM.png" alt="NPM Icon"></img>
+                    <img className="techImage" src="/techs/NPMSquare.png" alt="NPM Icon"></img>
                     <div className="technologyText">NPM</div>
                 </div>
                 <div className="cardContainer">
