@@ -11,6 +11,10 @@ const Technologies = () => (
             <h2 id="techTitle">Technologies</h2><br />
             <div className="technologiesContainer">
                 <div className="cardContainer">
+                    <img className="techImage" src="/techs/VScode.png" alt="VSCode Icon"></img>
+                    <div className="technologyText">Visual Studio Code</div>
+                </div>
+                <div className="cardContainer">
                     <img className="techImage" src="/techs/octocat.png" alt="GitHub Icon"></img>
                     <div className="technologyText">GitHub</div>
                 </div>
@@ -43,7 +47,7 @@ const Technologies = () => (
                     <div className="technologyText">Firebase</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/npm.png" alt="NPM Icon"></img>
+                    <img className="techImage" src="/techs/NPM.png" alt="NPM Icon"></img>
                     <div className="technologyText">NPM</div>
                 </div>
                 <div className="cardContainer">
@@ -57,10 +61,6 @@ const Technologies = () => (
                 <div className="cardContainer">
                     <img className="techImage" src="/techs/SQL.png" alt="SQL Icon"></img>
                     <div className="technologyText">SQL</div>
-                </div>
-                <div className="cardContainer">
-                    <img className="techImage" src="/techs/VScode.png" alt="VSCode Icon"></img>
-                    <div className="technologyText">Visual Studio Code</div>
                 </div>
             </div>
         </section>
