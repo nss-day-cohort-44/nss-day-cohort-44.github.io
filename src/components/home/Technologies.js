@@ -31,6 +31,10 @@ const Technologies = () => (
                     <div className="technologyText">Bootstrap</div>
                 </div>
                 <div className="cardContainer">
+                    <img className="techImage" src="/techs/NPMSquare.png" alt="NPM Icon"></img>
+                    <div className="technologyText">NPM</div>
+                </div>
+                <div className="cardContainer">
                     <img className="techImage" src="/techs/JS.svg" alt="JavaScript Icon"></img>
                     <div className="technologyText">Javascript</div>
                 </div>
@@ -45,10 +49,6 @@ const Technologies = () => (
                 <div className="cardContainer">
                     <img className="techImage" src="/techs/firebaseSquare.png" alt="Firebase Icon"></img>
                     <div className="technologyText">Firebase</div>
-                </div>
-                <div className="cardContainer">
-                    <img className="techImage" src="/techs/NPMSquare.png" alt="NPM Icon"></img>
-                    <div className="technologyText">NPM</div>
                 </div>
                 <div className="cardContainer">
                     <img className="techImage" src="/techs/Python_logo.svg" alt="Python Icon"></img>
