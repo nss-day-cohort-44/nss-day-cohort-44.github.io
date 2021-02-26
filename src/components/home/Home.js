@@ -14,7 +14,7 @@ import Technologies from './Technologies'
 import Thanks from './Thanks';
 import allStudents from '../../modules/students'
 
-//DEFINE SHUFFLE FUNCTION THANK YOU COHORT 42
+//DEFINE SHUFFLE FUNCTION THANK YOU MONICA AND COHORT 42
 const shuffle = (arr) => {
     //start at the end of the list...
     let currentIndex = arr.length, holdThisForASec, numberOutOfAHat;
@@ -76,20 +76,20 @@ class Home extends Component {
               <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
             </Carousel.Caption>
           </Carousel.Item>
-            </Carousel>
 
           <Carousel.Item>
             <img
               className="d-block w-100"
               src={classPhotoFun}
               alt="Second slide"
-            />
+              />
 
             <Carousel.Caption>
               {/* <h3>Second slide label</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
             </Carousel.Caption>
           </Carousel.Item>
+        </Carousel>
 
         <section id="about">
           <AboutUs />
