@@ -27,11 +27,7 @@ const Technologies = () => (
                     <div className="technologyText">Django</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/git.png" alt="Git Icon"></img>
-                    <div className="technologyText">Git</div>
-                </div>
-                <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/github.png" alt="GitHub Icon"></img>
+                    <img className="techImage" src="/techs/octocat.png" alt="GitHub Icon"></img>
                     <div className="technologyText">GitHub</div>
                 </div>
                 <div className="cardContainer">
@@ -47,10 +43,6 @@ const Technologies = () => (
                     <div className="technologyText">Bootstrap</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/webpack.png" alt="Webpack Icon"></img>
-                    <div className="technologyText">Webpack</div>
-                </div>
-                <div className="cardContainer">
                     <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/npm.png" alt="NPM Icon"></img>
                     <div className="technologyText">NPM</div>
                 </div>
@@ -59,8 +51,8 @@ const Technologies = () => (
                     <div className="technologyText">SQL</div>
                 </div>
                 <div className="cardContainer">
-                    <img className="techImage" src="https://i0.wp.com/mactorrents.io/wp-content/uploads/2019/10/1570878503_313_Tableplus-icon.png?ssl=1" alt="TablePlus Icon"></img>
-                    <div className="technologyText">TablePlus</div>
+                    <img className="techImage" src="/techs/firebase.png" alt="Firebase Icon"></img>
+                    <div className="technologyText">Firebase</div>
                 </div>
                 <div className="cardContainer">
                     <img className="techImage" src="https://nss-day-cohort-34.github.io/Class-Website/images/techs/vsc.png" alt="VSCode Icon"></img>
