@@ -105,7 +105,6 @@ export default [
             "email": "dillonbdraper@gmail.com",
             "quote": "“There is no struggle too vast, no odds too overwhelming, for even should we fail- should we fall- we will know that we have lived.”",
             "quoteAuthor": "-Steven Erikson",
-            "resume": "AdamByrd-resume.pdf",
             "proImg": "dillon_pro.jpg",
             "funImg": "dillon_fun.jpg",
             "isHired": false,   

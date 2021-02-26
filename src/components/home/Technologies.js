@@ -11,7 +11,7 @@ const Technologies = () => (
             <h2 id="techTitle">Technologies</h2><br />
             <div className="technologiesContainer">
                 <div className="cardContainer">
-                    <img className="techImage" src="/techs/VScode.png" alt="VSCode Icon"></img>
+                    <img className="techImage" src="/techs/VSCode.png" alt="VSCode Icon"></img>
                     <div className="technologyText">Visual Studio Code</div>
                 </div>
                 <div className="cardContainer">
