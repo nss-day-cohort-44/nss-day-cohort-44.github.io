@@ -34,9 +34,9 @@ const NavBar = () => (
               <ul className="container" id="center-nav-elements">
                 <Nav.Link className="nav-a" href="#about">About</Nav.Link>
                 <Nav.Link className="nav-a" href="#devs">Developers</Nav.Link>
-                <Nav.Link className="nav-a" href="#tech">Technologies</Nav.Link>
+                <Nav.Link className="nav-a" href="#tech">Tech</Nav.Link>
                 <Nav.Link className="nav-a" href="#thanks">Thanks</Nav.Link>
-                <Button href="http://nashss.com/demoday" variant="outline-light" id="rsvpButton">RSVP FOR DEMO DAY APRIL 3</Button>
+                <Button href="http://nashss.com/demoday" variant="outline-light" id="rsvpButton">RSVP FOR DEMO DAY MARCH 26TH</Button>
               </ul>
             </Navbar.Collapse>
           </Navbar>

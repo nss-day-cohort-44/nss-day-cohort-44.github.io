@@ -5,11 +5,13 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+/* C36: 305c70, Sage: 8d9f87 */
+
 .student-card {
     display: flex;
     color: #ffffff;
     flex-direction: column;
-    background-color: #054F60;
+    background-color: #054f60;
     height: auto;
     width: 360px;
     margin: 1em;
@@ -78,22 +80,21 @@ body {
 .icons {
   margin: 10px;
   font-size: 40px;
-  background-color: #054F60;
+  background-color: #054f60;
   color:rgb(241, 239, 239);
 }
 
 .icons:hover {
   margin: 10px;
-  background-color: #054F60;
+  background-color: #054f60;
   color: rgb(148, 146, 146);
 }
-
+/*  */
 .student-name {
   color: rgb(241, 239, 239);
   /* font-family: 'Open Sans', sans-serif; */
   font-family: 'Questrial', sans-serif;
   font-weight: bold;
-  /* text-transform: uppercase; */
 
 }
 
@@ -120,7 +121,7 @@ body {
   border-radius: .43em .43em 0 0;
   background-color: #F5F5F5;
   /* background-image: linear-gradient(to right, rgb(42, 122, 208), rgb(25, 79, 255)); */
-  color: #305c70;
+  color: #054f60;
   font-size: 24px;
   font-weight: bold;
 }

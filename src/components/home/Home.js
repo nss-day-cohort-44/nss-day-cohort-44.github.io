@@ -78,18 +78,18 @@ class Home extends Component {
           </Carousel.Item>
             </Carousel>
 
-          {/* <Carousel.Item> */}
-            {/* <img
+          <Carousel.Item>
+            <img
               className="d-block w-100"
               src={classPhotoFun}
               alt="Second slide"
-            /> */}
+            />
 
-            {/* <Carousel.Caption> */}
+            <Carousel.Caption>
               {/* <h3>Second slide label</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
-            {/* </Carousel.Caption> */}
-          {/* </Carousel.Item> */}
+            </Carousel.Caption>
+          </Carousel.Item>
 
         <section id="about">
           <AboutUs />
@@ -108,7 +108,7 @@ class Home extends Component {
         <section id="tech">
           <Technologies />
         </section>
-        <Podcasts></Podcasts>
+        {/* <Podcasts></Podcasts> */}
         <br />
         <br />
         <section id="thanks">
