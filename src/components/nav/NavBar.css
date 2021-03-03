@@ -68,9 +68,8 @@ nav .container a:hover {
 }
 
 #classLogo {
-  max-width: 29%;
-  height: auto;
-  margin-left: 2em;
+  height: 90px;
+  width: 90px;
 }
 
 
@@ -82,10 +81,10 @@ nav .container a:hover {
     flex-direction: column;
     justify-content: center;
   }
-  /* #classLogo {
+  #classLogo {
     height: 31px;
     width: 31px;
-  } */
+  }
   .navbar-fixed-top {
     position: fixed;
     z-index: 100;
