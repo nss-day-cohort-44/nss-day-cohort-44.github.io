@@ -123,7 +123,7 @@ export default [
             "email": "jasminkaset@gmail.com",
             "proImg": "jasmin_pro.jpg",
             "funImg": "jasmin_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "JasminKaset.pdf",
             "capstoneURL": ""
         },
