@@ -19,6 +19,7 @@ const NavBar = () => (
               <ul className="container" id="center-nav-elements">
                 <Nav.Link className="nav-a" href="#about">About</Nav.Link>
                 <Nav.Link className="nav-a" href="#devs">Developers</Nav.Link>
+                <Nav.Link className="nav-a" href="#pods">Podcasts</Nav.Link>
                 <Nav.Link className="nav-a" href="#tech">Tech</Nav.Link>
                 <Nav.Link className="nav-a" href="#thanks">Thanks</Nav.Link>
                 <Button href="http://nashss.com/demoday" variant="outline-light" id="rsvpButton">DEMO DAY RSVP! MARCH 26</Button>
