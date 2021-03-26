@@ -251,7 +251,7 @@ export default [
             "quoteAuthor": "-Alan Watts",
             "proImg": "danny_pro.JPG",
             "funImg": "danny_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "DannyMcCracken.pdf",
             "capstoneURL": ""
         },
