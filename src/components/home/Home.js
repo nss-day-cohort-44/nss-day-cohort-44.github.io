@@ -105,10 +105,15 @@ class Home extends Component {
         </div>
         <br />
         <br />
+        <br />
+        <br />
+        <section id="pods">
+        <Podcasts />
+        </section>
         <section id="tech">
           <Technologies />
         </section>
-        {/* <Podcasts></Podcasts> */}
+        <br />
         <br />
         <br />
         <section id="thanks">
