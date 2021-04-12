@@ -91,7 +91,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "shawn_pro.png",
             "funImg": "shawn_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "ShawnConerton.pdf",
             "capstoneURL": ""
         },
