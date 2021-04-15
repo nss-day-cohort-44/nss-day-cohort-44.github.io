@@ -378,7 +378,7 @@ export default [
             "quoteAuthor": "-Rick Osborne",
             "proImg": "kyleS_pro.Jpg",
             "funImg": "kyleS_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "KyleSimmons.pdf",
             "capstoneURL": ""
         },
