@@ -75,7 +75,7 @@ export default [
             "quoteAuthor": "-Mary Anne Radmacher",
             "proImg": "mario_pro.jpg",
             "funImg": "mario_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "MarioCampopiano.pdf",
             "capstoneURL": ""
         },
@@ -107,7 +107,7 @@ export default [
             "quoteAuthor": "-Steven Erikson",
             "proImg": "dillon_pro.jpg",
             "funImg": "dillon_fun.jpg",
-            "isHired": false,   
+            "isHired": true,   
             "resume": "DillonDraper.pdf",
             "capstoneURL": ""
         },
