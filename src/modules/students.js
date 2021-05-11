@@ -267,7 +267,7 @@ export default [
             "quoteAuthor": "-Benjamin Franklin",
             "proImg": "travisM_pro.png",
             "funImg": "travisM_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "TravisMilner.pdf",
             "capstoneURL": ""
         },
