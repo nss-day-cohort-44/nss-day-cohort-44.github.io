@@ -139,7 +139,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "devin_pro.jpg",
             "funImg": "devin_fun.jfif",
-            "isHired": false,
+            "isHired": true,
             "resume": "DevinKent.pdf",
             "capstoneURL": ""
         },
@@ -330,7 +330,7 @@ export default [
             "quoteAuthor": "-Swami Vivekananda",
             "proImg": "sanjeet_pro.jpg",
             "funImg": "sanjeet_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "SanjeetPrasad.pdf",
             "capstoneURL": ""
         },
@@ -362,7 +362,7 @@ export default [
             "quoteAuthor": "-Steve Martin",
             "proImg": "ben_pro.jpg",
             "funImg": "ben_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "BenjaminSchweizer.pdf",
             "capstoneURL": ""
         },
@@ -394,7 +394,7 @@ export default [
             "quoteAuthor": "-Willy Wonka",
             "proImg": "kristen_pro.jpeg",
             "funImg": "kristen_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "KristenSteele.pdf",
             "capstoneURL": ""
         },
@@ -442,7 +442,7 @@ export default [
             "quoteAuthor": " -Miley Cyrus (Philosopher)",
             "proImg": "susan_pro.jpg",
             "funImg": "susan_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "SusanWiens.pdf",
             "capstoneURL": "",
         },
@@ -458,7 +458,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "david_pro.jpg",
             "funImg": "david_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "DavidWilliams.pdf",
             "capstoneURL": ""
         }
