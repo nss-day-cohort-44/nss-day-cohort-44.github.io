@@ -27,7 +27,7 @@ export default [
             "quoteAuthor": "-Jerry Seinfeld",
             "proImg": "will_pro.JPG",
             "funImg": "will_fun.jpeg",
-            "isHired": false,
+            "isHired": true,
             "resume": "WillBishop.pdf",
             "capstoneURL": "",
         },
