@@ -43,7 +43,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "jake_pro.png",
             "funImg": "jake_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JakeButler.pdf",
             "capstoneURL": "",
         },
