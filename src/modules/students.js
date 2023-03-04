@@ -11,7 +11,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "alan_pro.jpg",
             "funImg": "alan_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "AlanAndrusky.pdf",
             "capstoneURL": ""
         },
@@ -59,7 +59,7 @@ export default [
             "quoteAuthor": "-Chris Burkard",
             "proImg": "charlie_pro.jpeg",
             "funImg": "charlie_fun.jpeg",
-            "isHired": false,
+            "isHired": true,
             "resume": "CharlieButterworth.pdf",
             "capstoneURL": "",
         },
@@ -155,7 +155,7 @@ export default [
             "quoteAuthor": "-Bob Goff",
             "proImg": "jaron_pro.png",
             "funImg": "jaron_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "JaronLane.pdf",
             "capstoneURL": ""
         },
@@ -171,7 +171,7 @@ export default [
             "quoteAuthor": "-Peregrin Took",
             "proImg": "jayna_pro.JPG",
             "funImg": "jayna_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "JaynaLeitze.pdf",
             "capstoneURL": ""
         },
@@ -187,7 +187,7 @@ export default [
             "email": "h.allen.lester@gmail.com",
             "proImg": "heath_pro.JPG",
             "funImg": "heath_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "HeathLester.pdf",
             "capstoneURL": ""
         },
@@ -203,7 +203,7 @@ export default [
             "quoteAuthor": "-Alan Perlis, Epigrams in Programming",
             "proImg": "silas_pro.jpg",
             "funImg": "silas_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "SilasLowe.pdf",
             "capstoneURL": ""
         },
@@ -235,7 +235,7 @@ export default [
             "quoteAuthor": "-Robert G. Ingersoll",
             "proImg": "ted_pro.jpg",
             "funImg": "ted_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "TedMarov.pdf",
             "capstoneURL": "",
         },
@@ -298,7 +298,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "erica_pro.jpg",
             "funImg": "erica_fun.JPG",
-            "isHired": false,
+            "isHired": true,
             "resume": "EricaPhillips.pdf",
             "capstoneURL": ""
         },
@@ -314,7 +314,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "suganya_pro.jpg",
             "funImg": "suganya_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "SuganyaPrakash.pdf",
             "capstoneURL": ""
         },
@@ -346,7 +346,7 @@ export default [
             "quoteAuthor": "-Carl Sagan",
             "proImg": "leo_pro.jpg",
             "funImg": "leo_fun.jpg",
-            "isHired": false,
+            "isHired": true,
             "resume": "LeoRondeau.pdf",
             "capstoneURL": ""
         },
@@ -426,7 +426,7 @@ export default [
             "quoteAuthor": "-Douglas Adams",
             "proImg": "patrick_pro.jpg",
             "funImg": "patrick_fun.png",
-            "isHired": false,
+            "isHired": true,
             "resume": "NotThatPatrickStewart.pdf",
             "capstoneURL": ""
         },
