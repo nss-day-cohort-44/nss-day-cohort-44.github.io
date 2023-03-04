@@ -21,7 +21,7 @@ export default [
             "lastName": "Bishop",
             "portfolio": "https://www.willbishop.dev/",
             "github": "https://github.com/billwishop",
-            "linkedIn": "https://www.linkedin.com/in/will-bishop-software-developer/",
+            "linkedIn": "https://www.linkedin.com/in/will-bishop-dev/",
             "email": "willbishop.hello@gmail.com",
             "quote": "“Hello, Newman.”",
             "quoteAuthor": "-Jerry Seinfeld",
