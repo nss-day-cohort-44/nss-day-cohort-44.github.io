@@ -6,7 +6,6 @@ import Carousel from 'react-bootstrap/Carousel'
 import './Home.css'
 import './About.css'
 import "./studentCard.css"
-import ApiManager from '../../modules/ApiManager'
 import StudentCard from './studentCard'
 import AboutUs from "./About"
 import Podcasts from "./Podcasts"
@@ -108,7 +107,7 @@ class Home extends Component {
         <br />
         <br />
         <section id="pods">
-        <Podcasts />
+          <Podcasts />
         </section>
         <section id="tech">
           <Technologies />

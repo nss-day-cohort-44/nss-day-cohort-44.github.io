@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { Link, withRouter } from "react-router-dom"
+import React from 'react';
+import { withRouter } from "react-router-dom"
 import NSSLogo from './nss-logo-compact.png'
 import './NavBar.css'
 import { Navbar, Nav, Button } from "react-bootstrap"
@@ -22,7 +22,7 @@ const NavBar = () => (
                 <Nav.Link className="nav-a" href="#pods">Podcasts</Nav.Link>
                 <Nav.Link className="nav-a" href="#tech">Tech</Nav.Link>
                 <Nav.Link className="nav-a" href="#thanks">Thanks</Nav.Link>
-                <Button href="http://nashss.com/demoday" variant="outline-light" id="rsvpButton">DEMO DAY RSVP! MARCH 26</Button>
+                <Button href="https://bit.ly/3ltKBMk" variant="outline-light" id="rsvpButton">DEMO DAY WAS MARCH 26 2021!</Button>
               </ul>
             </Navbar.Collapse>
           </Navbar>
