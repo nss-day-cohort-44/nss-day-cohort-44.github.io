@@ -22,7 +22,7 @@ const NavBar = () => (
                 <Nav.Link className="nav-a" href="#pods">Podcasts</Nav.Link>
                 <Nav.Link className="nav-a" href="#tech">Tech</Nav.Link>
                 <Nav.Link className="nav-a" href="#thanks">Thanks</Nav.Link>
-                <Button href="https://bit.ly/3ltKBMk" variant="outline-light" id="rsvpButton">DEMO DAY MARCH 26 2021</Button>
+                <Button href="http://nashss.com/demoday" variant="outline-light" id="rsvpButton">UPCOMING DEMOS</Button>
               </ul>
             </Navbar.Collapse>
           </Navbar>
