@@ -2,12 +2,12 @@
     font-size: 5em;
     font-family: 'Questrial', sans-serif;
     text-align: center;
+    margin: 0em 1em 1em 1em
 }
 
 .thanks-titles {
     /* color: rgb(228, 134, 58); */
     /* font-weight: bold; */
-    color: #3d5e79;
     font-size: 18px;
     font-weight: bold;
 }

@@ -5,7 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: white;
+  /* background-color: #f37d1d; */
+  /* background-image: linear-gradient(to left, rgb(221, 41, 1), rgb(235, 87, 8)); */
+  background-image: url(./images/desk.jpg);
+  background-attachment: fixed;
 }
 
 code {

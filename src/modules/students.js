@@ -219,7 +219,7 @@ export default [
             "quoteAuthor": "“If at first you don’t succeed; call it version 1.0”",
             "proImg": "matthew_pro.png",
             "funImg": "matthew_fun.JPG",
-            "isHired": false,
+            "isHired": true,
             "resume": "MatthewMachurek.pdf",
             "capstoneURL": ""
         },
