@@ -7,7 +7,7 @@ import './Technologies.css'
 const Technologies = () => (
     <>
         <br />
-        <section className="about-us" id="technologies">
+        <section className="technologies">
             <h2 id="techTitle">Technologies</h2><br />
             <div className="technologiesContainer">
                 <div className="cardContainer">

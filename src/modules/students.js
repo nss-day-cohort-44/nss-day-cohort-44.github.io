@@ -11,7 +11,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "alan_pro.jpg",
             "funImg": "alan_fun.png",
-            "isHired": true,
+            "isHired": false,
             "resume": "AlanAndrusky.pdf",
             "capstoneURL": ""
         },
@@ -21,7 +21,7 @@ export default [
             "lastName": "Bishop",
             "portfolio": "https://www.willbishop.dev/",
             "github": "https://github.com/billwishop",
-            "linkedIn": "https://www.linkedin.com/in/will-bishop-dev/",
+            "linkedIn": "https://www.linkedin.com/in/will-bishop-software-developer/",
             "email": "willbishop.hello@gmail.com",
             "quote": "“Hello, Newman.”",
             "quoteAuthor": "-Jerry Seinfeld",
@@ -59,7 +59,7 @@ export default [
             "quoteAuthor": "-Chris Burkard",
             "proImg": "charlie_pro.jpeg",
             "funImg": "charlie_fun.jpeg",
-            "isHired": true,
+            "isHired": false,
             "resume": "CharlieButterworth.pdf",
             "capstoneURL": "",
         },
@@ -155,7 +155,7 @@ export default [
             "quoteAuthor": "-Bob Goff",
             "proImg": "jaron_pro.png",
             "funImg": "jaron_fun.png",
-            "isHired": true,
+            "isHired": false,
             "resume": "JaronLane.pdf",
             "capstoneURL": ""
         },
@@ -171,7 +171,7 @@ export default [
             "quoteAuthor": "-Peregrin Took",
             "proImg": "jayna_pro.JPG",
             "funImg": "jayna_fun.jpg",
-            "isHired": true,
+            "isHired": false,
             "resume": "JaynaLeitze.pdf",
             "capstoneURL": ""
         },
@@ -187,7 +187,7 @@ export default [
             "email": "h.allen.lester@gmail.com",
             "proImg": "heath_pro.JPG",
             "funImg": "heath_fun.jpg",
-            "isHired": true,
+            "isHired": false,
             "resume": "HeathLester.pdf",
             "capstoneURL": ""
         },
@@ -203,7 +203,7 @@ export default [
             "quoteAuthor": "-Alan Perlis, Epigrams in Programming",
             "proImg": "silas_pro.jpg",
             "funImg": "silas_fun.jpg",
-            "isHired": true,
+            "isHired": false,
             "resume": "SilasLowe.pdf",
             "capstoneURL": ""
         },
@@ -219,7 +219,7 @@ export default [
             "quoteAuthor": "“If at first you don’t succeed; call it version 1.0”",
             "proImg": "matthew_pro.png",
             "funImg": "matthew_fun.JPG",
-            "isHired": true,
+            "isHired": false,
             "resume": "MatthewMachurek.pdf",
             "capstoneURL": ""
         },
@@ -235,7 +235,7 @@ export default [
             "quoteAuthor": "-Robert G. Ingersoll",
             "proImg": "ted_pro.jpg",
             "funImg": "ted_fun.jpg",
-            "isHired": true,
+            "isHired": false,
             "resume": "TedMarov.pdf",
             "capstoneURL": "",
         },
@@ -298,7 +298,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "erica_pro.jpg",
             "funImg": "erica_fun.JPG",
-            "isHired": true,
+            "isHired": false,
             "resume": "EricaPhillips.pdf",
             "capstoneURL": ""
         },
@@ -314,7 +314,7 @@ export default [
             "quoteAuthor": "",
             "proImg": "suganya_pro.jpg",
             "funImg": "suganya_fun.png",
-            "isHired": true,
+            "isHired": false,
             "resume": "SuganyaPrakash.pdf",
             "capstoneURL": ""
         },
@@ -346,7 +346,7 @@ export default [
             "quoteAuthor": "-Carl Sagan",
             "proImg": "leo_pro.jpg",
             "funImg": "leo_fun.jpg",
-            "isHired": true,
+            "isHired": false,
             "resume": "LeoRondeau.pdf",
             "capstoneURL": ""
         },
@@ -426,7 +426,7 @@ export default [
             "quoteAuthor": "-Douglas Adams",
             "proImg": "patrick_pro.jpg",
             "funImg": "patrick_fun.png",
-            "isHired": true,
+            "isHired": false,
             "resume": "NotThatPatrickStewart.pdf",
             "capstoneURL": ""
         },

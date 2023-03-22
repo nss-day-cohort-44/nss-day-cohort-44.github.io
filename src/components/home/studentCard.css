@@ -43,7 +43,7 @@ body {
 }
 
 
-.student-serious, .student-fun {
+.student-serious-photo, .student-fun-photo {
   width: 285px;
   height: 428px;
   border-radius: 1em;
@@ -59,14 +59,14 @@ body {
   margin: 10px;
 
 }
-.card-fx .student-fun {
+.card-fx .student-fun-photo {
   display: none;
   position: absolute;
   top: 0;
   left: 0;
   z-index: 99;
 }
-.card-fx:hover .student-fun {
+.card-fx:hover .student-fun-photo {
   display: inline;
 }
 

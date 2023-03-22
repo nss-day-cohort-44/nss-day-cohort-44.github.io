@@ -8,11 +8,9 @@ body {
 .about-us {
     text-align: left;
     margin: 5%;
-    color: white;
-    background-color: #054f60;
-    border-radius: 1em;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    padding: 1em 1em 1em 1em;
+    color: black;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .hello {
@@ -25,13 +23,13 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.character-traits-yellow {
+.charater-traits-yellow {
     color: rgb(233, 132, 49);
     font-weight: bolder;
     font-size: larger;
 }
-.character-traits-blue {
-    color: #4789a7;
+.charater-traits-blue {
+    color: #305c70;
     font-weight: bolder;
     font-size: larger;
 }
@@ -47,6 +45,14 @@ body {
     font-weight: bold;
 }
 
+.about-background {
+    background-color: #F5F5F5;
+}
+
+#thanks {
+    background-color: #F5F5F5;
+}
+
 @media only screen and (max-width: 800px) {
     
     .hello {
@@ -55,7 +61,6 @@ body {
     }
     .about-paragraph {
         font-size: 16px;
-        color: white;
     }
 
     #software-devs {
@@ -69,12 +74,12 @@ body {
         font-weight: bold;
     }
 
-    .character-traits-yellow {
+    .charater-traits-yellow {
         color: rgb(233, 132, 49);
         font-weight: bolder;
         font-size: large;
     }
-    .character-traits-blue {
+    .charater-traits-blue {
         color: #305c70;
         font-weight: bolder;
         font-size: large;
