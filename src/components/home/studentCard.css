@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* C36: 305c70, Sage: 8d9f87 */
+
+.student-card {
+    display: flex;
+    color: #ffffff;
+    flex-direction: column;
+    background-color: #054f60;
+    height: auto;
+    width: 360px;
+    margin: 1em;
+    border-radius: 1em;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+
+.card-content {
+  padding: 0 .5em .5em .5em;
+}
+
+.card-content h3 {
+  margin-top: 0;
+  margin-bottom: .5em;
+  font-weight: bold;
+  color: #3d5e79;
+}
+
+.card-content p {
+  font-size: 20px;
+  color: white;
+}
+
+.card-content .btn-resume, .card-content .btn-capstone {
+  color: white;
+  margin: 8px;
+}
+
+
+.student-serious, .student-fun {
+  width: 285px;
+  height: 428px;
+  border-radius: 1em;
+  z-index: 2;
+
+}
+
+.card-fx {
+  /* width: 130px;
+  height: 195px; */
+  position: relative;
+  display: inline-block;
+  margin: 10px;
+
+}
+.card-fx .student-fun {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.card-fx:hover .student-fun {
+  display: inline;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.icons {
+  margin: 10px;
+  font-size: 40px;
+  background-color: #054f60;
+  color:rgb(241, 239, 239);
+}
+
+.icons:hover {
+  margin: 10px;
+  background-color: #054f60;
+  color: rgb(148, 146, 146);
+}
+/*  */
+.student-name {
+  color: rgb(241, 239, 239);
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Questrial', sans-serif;
+  font-weight: bold;
+
+}
+
+
+#hiredLabel {
+  margin-bottom: 0;
+  height: 40px;
+  border-radius: .43em .43em 0 0;
+  background-color: rgb(221, 41, 1);
+  background-image: linear-gradient(to right, rgb(221, 41, 1), rgb(235, 87, 8));
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+
+}
+
+#hiredText, #availableText {
+  margin-left: 10px;
+}
+
+#availableLabel {
+  margin-bottom: 0;
+  height: 40px;
+  border-radius: .43em .43em 0 0;
+  background-color: #F5F5F5;
+  /* background-image: linear-gradient(to right, rgb(42, 122, 208), rgb(25, 79, 255)); */
+  color: #054f60;
+  font-size: 24px;
+  font-weight: bold;
+}

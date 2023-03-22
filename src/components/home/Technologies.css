@@ -1,0 +1,67 @@
+.technologies {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #FFFFFF;
+    border-radius: 1em;
+    background-color: #054f60;
+    border-radius: 1em;
+}
+
+.technologiesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.techImage {
+    width: 100px;
+    height: 100px;
+}
+
+#techTitle {
+    font-size: 5em;
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.technologyText {
+    text-align: center;
+}
+
+.cardContainer {
+    padding: 5px;
+}
+.cardContainer {
+    padding: 5px;
+    margin: 12px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+@media only screen and (max-width: 800px) {
+  
+    #techTitle {
+        font-size: 3em;
+        font-family: 'Questrial', sans-serif;
+        text-align: center;
+        margin-top: 100px;
+    }
+    .technologies {
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        font-weight: bold;
+    }
+
+    .techImage {
+        width: 75px;
+        height: 75px;
+    }
+    .cardContainer {
+        padding: 5px;
+        margin:10px;
+        font-family: 'Open Sans', sans-serif;
+
+    }
+  }
