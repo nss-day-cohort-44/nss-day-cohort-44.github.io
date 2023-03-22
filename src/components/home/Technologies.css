@@ -1,10 +1,10 @@
 .technologies {
     margin-left: 50px;
     margin-right: 50px;
+    padding-top: 1em;
     color: #FFFFFF;
     border-radius: 1em;
     background-color: #054f60;
-    border-radius: 1em;
 }
 
 .technologiesContainer {
@@ -22,7 +22,6 @@
     font-size: 5em;
     font-family: 'Questrial', sans-serif;
     text-align: center;
-    margin-top: 100px;
 }
 
 .technologyText {
