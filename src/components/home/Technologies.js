@@ -8,7 +8,7 @@ const Technologies = () => (
     <>
         <br />
         <section className="about-us" id="technologies">
-            <h2 id="techTitle">Technology</h2><br />
+            <h2 id="techTitle">Technologies</h2><br />
             <div className="technologiesContainer">
                 <div className="cardContainer">
                     <img className="techImage" src="/techs/VSCode.png" alt="VSCode Icon"></img>
