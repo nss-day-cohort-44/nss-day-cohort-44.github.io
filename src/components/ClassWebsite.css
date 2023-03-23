@@ -22,8 +22,7 @@ h1,h2,h3,h4,h5,h6 {
 
 p {
   margin-bottom: 1.5em;
-  color: #d6fcff;
-  color: black;
+  color: #ffffff;
 }
 
 strong {
@@ -35,7 +34,6 @@ address {
 }
 
 article {
-  background-color: rgb(211, 242, 191);
   margin: 15px;
   padding: 15px;
 }
