@@ -232,7 +232,7 @@ export default [
             "linkedIn": "https://www.linkedin.com/in/tedmarov",
             "email": "tedmarov@gmail.com",
             "quote": "“If you want to find out who someone is to the bottom, give them power. Anyone can stand adversity, only the great can stand prosperity.”",
-            "quoteAuthor": "-Robert G. Ingersoll",
+            "quoteAuthor": "-Robert G. Ingersolls",
             "proImg": "ted_pro.jpg",
             "funImg": "ted_fun.jpg",
             "isHired": true,
