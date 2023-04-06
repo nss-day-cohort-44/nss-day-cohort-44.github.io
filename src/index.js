@@ -5,7 +5,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import ClassWebsite from './components/ClassWebsite';
 
 ReactDOM.render(
-<Router>
+<Router basename="/">
     <ClassWebsite />
 </Router>
 , document.getElementById('root'));

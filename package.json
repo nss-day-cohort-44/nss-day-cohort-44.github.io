@@ -10,6 +10,7 @@
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
     "bootstrap": "^4.6.0",
+    "isexe": "^2.0.0",
     "jquery": "^3.5.1",
     "lodash": "^4.17.21",
     "mkdirp": "^1.0.4",
@@ -19,7 +20,6 @@
     "react-iframe": "^1.8.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.2.0",
-    "terser-webpack-plugin": "^5.1.1",
     "watchpack": "^2.1.1"
   },
   "scripts": {
