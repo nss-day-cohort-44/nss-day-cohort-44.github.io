@@ -1,15 +1,14 @@
-import { StrictMode } from 'react';
-import { render } from '@testing-library/react'
+import React from 'react';
+import ReactDOM from 'react-dom';
 import './index.css';
+import { BrowserRouter as Router } from "react-router-dom";
 import ClassWebsite from './components/ClassWebsite';
 
-
-render(
-<StrictMode>
-    <ClassWebsite />,
-</StrictMode>,
-);
-
+ReactDOM.render(
+<Router>
+    <ClassWebsite />
+</Router>
+, document.getElementById('root'));
 
 //This is for the initial commit
 // If you want your app to work offline and load faster, you can change
