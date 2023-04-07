@@ -1,4 +1,4 @@
-export default [
+const students = [
         {
             "id": 1,
             "firstName": "Alan",
@@ -463,3 +463,5 @@ export default [
             "capstoneURL": ""
         }
 ]
+
+export default students
