@@ -6,7 +6,6 @@ import Carousel from 'react-bootstrap/Carousel'
 import './Home.css'
 import './About.css'
 import "./studentCard.css"
-import ApiManager from '../../modules/ApiManager'
 import StudentCard from './studentCard'
 import AboutUs from "./About"
 import Podcasts from "./Podcasts"
@@ -47,7 +46,6 @@ class Home extends Component {
   }
 
   componentDidMount() {
-    // ApiManager.getAll("students")
         const studentShuffle = shuffle(allStudents)
     //     //create array for students who are not hired
         const notHiredYet = studentShuffle.filter(student => !student.isHired)
