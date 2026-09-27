@@ -123,3 +123,80 @@ nav .container a:hover {
   border: 2px solid rgb(221, 41, 1);
 }
 
+.navbar-fixed-top {
+  top: 0;
+  left: 0;
+  transition: background-color 0.5s ease;
+}
+
+.bg-nav {
+  background-color: white;
+}
+
+.nav-width {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0.75rem 2rem;
+}
+
+#classLogo {
+  display: block;
+  height: 72px;
+  width: 72px;
+  object-fit: contain;
+}
+
+.nav-links {
+  gap: 0.75rem;
+}
+
+.navbar-fixed-top .navbar-nav .nav-link {
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.bg-nav .navbar-nav .nav-link {
+  color: rgb(112, 112, 112);
+}
+
+.navbar-fixed-top .navbar-nav .nav-link:hover {
+  color: orangered;
+}
+
+#rsvpButton {
+  margin-left: 1rem;
+  white-space: nowrap;
+}
+
+@media only screen and (max-width: 991.98px) {
+  .navbar-fixed-top {
+    background-color: rgba(255, 255, 255, 0.96);
+  }
+
+  .nav-width {
+    padding: 0.4rem 1rem;
+  }
+
+  #classLogo {
+    height: 48px;
+    width: 48px;
+  }
+
+  .navbar-fixed-top .navbar-nav .nav-link {
+    color: rgb(112, 112, 112);
+  }
+
+  .nav-links {
+    gap: 0;
+  }
+
+  #rsvpButton {
+    margin: 0.5rem 0.75rem 0;
+  }
+}
+
