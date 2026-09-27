@@ -15,16 +15,16 @@ const NavBar = () => (
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="nav-links ms-auto">
+          <Nav className="nav-links">
             <Nav.Link href="#about">About</Nav.Link>
             <Nav.Link href="#devs">Developers</Nav.Link>
             <Nav.Link href="#pods">Podcasts</Nav.Link>
             <Nav.Link href="#tech">Tech</Nav.Link>
             <Nav.Link href="#thanks">Thanks</Nav.Link>
+            <Button href="https://nashss.com/demoday" variant="outline-light" id="rsvpButton">
+              DEMO DAY
+            </Button>
           </Nav>
-          <Button href="https://nashss.com/demoday" variant="outline-light" id="rsvpButton">
-            DEMO DAY
-          </Button>
         </Navbar.Collapse>
       </Navbar>
     </nav>
