@@ -148,7 +148,12 @@ nav .container a:hover {
 }
 
 .nav-links {
-  gap: 0.75rem;
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
 }
 
 .navbar-fixed-top .navbar-nav .nav-link {
@@ -169,7 +174,8 @@ nav .container a:hover {
 }
 
 #rsvpButton {
-  margin-left: 1rem;
+  flex: 0 0 auto;
+  margin: 0;
   white-space: nowrap;
 }
 
@@ -192,11 +198,15 @@ nav .container a:hover {
   }
 
   .nav-links {
+    flex-direction: column;
+    align-items: stretch;
     gap: 0;
+    width: 100%;
   }
 
   #rsvpButton {
-    margin: 0.5rem 0.75rem 0;
+    align-self: center;
+    margin: 0.5rem 0 0;
   }
 }
 
