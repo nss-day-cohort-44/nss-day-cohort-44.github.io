@@ -10,15 +10,17 @@ We are software developers.
 🌮🎾🎤🐒🐓
 
 
-## To Install 
-1. In your terminal, run `git clone SSH KEY HERE`
-1. `cd` into the project directory.
-1. From the main directory, run `npm install` to install all dependencies. 
-1. From the main directory, run `npm start` to start the application and then go to http://localhost:3000 to view the website.
+## Development
 
-View the deployed website <a href="https://nss-day-cohort-44.github.io/">here</a>! 
+Requires Node.js 22.12 or newer.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Clone `https://github.com/nss-day-cohort-44/nss-day-cohort-44.github.io.git`.
+2. From the project directory, run `npm install`.
+3. Run `npm start` and open http://localhost:5173.
+4. Run `npm test` to execute the test suite.
+5. Run `npm run build` to create the production site in `dist/`.
+
+Run `npm run deploy` to publish to GitHub Pages. The deployed website is at <https://nss-day-cohort-44.github.io/>.
 
 ## Students
 

@@ -10,7 +10,7 @@ const Thanks = () => (
         <section className="about-us" id='thanks'>
             <h1 className="thanks">Thank You...</h1>
 
-            <p className="thanks-paragraph">
+            <div className="thanks-paragraph">
                 <div className="thanks-section">
                     <span className="thanks-titles">To John Wark - Founder of Nashville Software School,<br />
                     </span>
@@ -35,7 +35,7 @@ const Thanks = () => (
                     <div className="thanks-message">
                     <b>Hey, Cohort 44, we did it!</b><br /><br />We just went through a pretty amazing six months, and it wouldn’t be a stretch to say we all recognize just how lucky we are that we got to do it with the people we did. To have an entire group be not only intelligent, creative, hard-working badasses, but also some of the kindest, most caring and empathetic people around is nothing short of astounding. And we’ll continue to support each other as we move forward, offering a helping hand through each other’s failures and celebrating each other’s successes. Because we’re Cohort 44, and we’re stuck with us now!</div>
                 </div>
-                </p>
+            </div>
 
         </section>
     </>

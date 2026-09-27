@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import { Link, withRouter } from "react-router-dom"
+import React from 'react';
 import NSSLogo from './nss-logo-compact.png'
 import './NavBar.css'
 import { Navbar, Nav, Button } from "react-bootstrap"
@@ -13,7 +12,7 @@ const NavBar = () => (
       <div className="flexContainer2">
         <nav className="flex-item navbar-fixed-top" id="navbar">
           <Navbar collapseOnSelect expand="lg" className="nav-width navbar-collapse">
-          <Navbar.Brand href="#home"><img src={NSSLogo} alt="Hi Brenda :)" id="classLogo"></img></Navbar.Brand>
+          <Navbar.Brand href="#home"><img src={NSSLogo} alt="Nashville Software School" id="classLogo" /></Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav" >
               <ul className="container" id="center-nav-elements">
@@ -22,7 +21,7 @@ const NavBar = () => (
                 <Nav.Link className="nav-a" href="#pods">Podcasts</Nav.Link>
                 <Nav.Link className="nav-a" href="#tech">Tech</Nav.Link>
                 <Nav.Link className="nav-a" href="#thanks">Thanks</Nav.Link>
-                <Button href="http://nashss.com/demoday" variant="outline-light" id="rsvpButton">DEMO DAY RSVP! MARCH 26</Button>
+                <Button href="https://nashss.com/demoday" variant="outline-light" id="rsvpButton">DEMO DAY</Button>
               </ul>
             </Navbar.Collapse>
           </Navbar>
@@ -32,5 +31,4 @@ const NavBar = () => (
   </header>
 )
 
-//use withRouter() when you can't use the Route component
-export default withRouter(NavBar);
+export default NavBar;

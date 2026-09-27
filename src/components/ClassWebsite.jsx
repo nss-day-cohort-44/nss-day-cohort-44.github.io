@@ -3,19 +3,21 @@ import React, { Component } from 'react'
 import './ClassWebsite.css'
 import NavBar from './nav/NavBar'
 import ApplicationViews from './ApplicationViews'
-import $ from "jquery"
+
 class ClassWebsite extends Component {
-  componentDidMount() {
-    //  Author: Lauren Riddle
-    // This jquery turns the navbar from transparent to solid white on scroll.
-    $(window).scroll(function () {
-      if ($(window).scrollTop() > 150) {
-        $(".navbar-fixed-top").addClass("bg-nav");
-      } else {
-        $(".navbar-fixed-top").removeClass("bg-nav");
-      }
-    });
+  handleScroll = () => {
+    document.querySelector(".navbar-fixed-top")?.classList.toggle("bg-nav", window.scrollY > 150)
   }
+
+  componentDidMount() {
+    window.addEventListener("scroll", this.handleScroll)
+    this.handleScroll()
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener("scroll", this.handleScroll)
+  }
+
   render() {
     return (
       <>
